@@ -1,0 +1,32 @@
+name: Frases de Black Bird
+
+# Una IA gratis en línea (OpenCode) escribe las frases y respuestas de Black Bird
+# y las deja en GitHub Pages, que VRChat deja leer a todos los jugadores.
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: frases
+  cancel-in-progress: false
+
+jobs:
+  frases:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Cliente de OpenCode
+        run: npm install -g opencode-ai@1 --no-fund --no-audit
+      - name: Pedir frases a la IA
+        run: python3 generar.py < /dev/null
+      - name: Publicar si cambiaron
+        run: |
+          git config user.name "Black Bird"
+          git config user.email "actions@users.noreply.github.com"
+          git add frases.txt
+          git diff --cached --quiet || (git commit -m "Frases nuevas de Black Bird" && git push)

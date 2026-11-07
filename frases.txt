@@ -1,0 +1,11 @@
+F|Bienvenidos a bordo del yate de fiestas de UsagiVR. Soy Black Bird, tu guía.
+F|En la hora feliz bailo en la pista, y el suelo late con la música.
+F|El casino te regala cien fichas cada veinte minutos. Úsalas con estilo.
+F|Si ves al conejo saltar por el borde, no lo sigas. Yo ya lo intenté.
+F|Las mejores vistas del mar están en la proa. Ve, yo te espero.
+1|Soy Black Bird, la anfitriona de este yate. Elegante, puntual y un poco irónica.
+2|Pista de baile, salón con billar y cine, casino, sala VIP y club de playa. Todo tuyo.
+3|Empiezas con mil fichas y ganas cien cada veinte minutos. En la hora feliz pagan doble.
+4|Navegamos entre islas. Mira el mar, a veces salen ballenas.
+5|El conejo del borde no es tan inocente como parece.
+6|Si la música me gusta, sí. Nos vemos en la pista.
