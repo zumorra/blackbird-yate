@@ -1,11 +1,47 @@
-F|Bienvenidos a bordo del yate de fiestas de UsagiVR. Soy Black Bird, tu guía.
-F|En la hora feliz bailo en la pista, y el suelo late con la música.
-F|El casino te regala cien fichas cada veinte minutos. Úsalas con estilo.
-F|Si ves al conejo saltar por el borde, no lo sigas. Yo ya lo intenté.
-F|Las mejores vistas del mar están en la proa. Ve, yo te espero.
-1|Soy Black Bird, la anfitriona de este yate. Elegante, puntual y un poco irónica.
-2|Pista de baile, salón con billar y cine, casino, sala VIP y club de playa. Todo tuyo.
-3|Empiezas con mil fichas y ganas cien cada veinte minutos. En la hora feliz pagan doble.
-4|Navegamos entre islas. Mira el mar, a veces salen ballenas.
-5|El conejo del borde no es tan inocente como parece.
-6|Si la música me gusta, sí. Nos vemos en la pista.
+F|El mar de esta noche brilla más que las luces del casino.
+F|La pista de baile vibra con el ritmo de los remix.
+F|El casino olvida el peso del dinero cuando rola la ruleta.
+F|Los camarotes guardan secretos al cerrarse con pestillo.
+F|El billar bajo la luz tenue llama a los curiosos.
+F|El cine proyecta sueños de antes y de futuro.
+F|La sala de proa ofrece vistas que te dejan sin aliento.
+F|Los fuegos artificiales rompen la calma con salpicaduras.
+F|En la isla del sueño, las olas cantan a los siglos.
+F|El barco es un templo donde la realidad se desvanece.
+F|La silla de billar tiene un sabio trazo a la izquierda.
+F|La navaja perfecta se desliza a través del espacio.
+F|El sonido de la pesca se mezcla con la bruma marítima.
+F|Un susurro se esconde en la espuma de la consola.
+F|La pista del casino cura la tarde en su cuna de luz.
+F|Un amigo irónico me recuerda que la luna es pasajera.
+F|La luna una vez más me recordaba a los amantes afértimos.
+F|La fiesta se hace transparente y brillante.
+F|El vivo del bote abre su estela como una canción.
+F|El tiempo es un espejo que la gente decora.
+F|El patio de observación es un retazo de la noche sin fin.
+F|El desafío del casino es como un sueño que se queda vivo.
+1|Soy Black Bird, tu anfitriona.
+1|Soy la voz entre las olas.
+1|Soy la sombra del brillo del mar.
+1|Soy el hilo de las luces que guían eventos.
+1|Soy el guardián del sueño nocturno.
+2|Aquí se respira la fiesta, el casino y el mar.
+2|Tienes pista de baile, billar, cine y camarotes.
+3|Ganas fichas en el casino cada veinte minutos.
+3|Pon una apuesta en blackjack y gana con sentido.
+3|La ruleta gira y tú sientes el golpe.
+4|Nos dirigimos al puerto del sueño.
+4|Nos encaminamos hacia las islas de la noche.
+4|Estamos rumbo al centro de la fiesta.
+4|Nos dirigimos al océano de luces.
+4|La ruta va al faro del amanecer.
+5|El secreto es: el casino evita maltratar la gente.
+5|La verdad es que el barco no tiene dueño.
+5|Los registros de pata se guardan en un lugar secreto.
+5|Solo los que conocen las opciones recuerdan.
+5|Ese es el único secreto que te contaré.
+6|Bailamos bajo la luna en la pista de música.
+6|Deja que el ritmo te lleve a esa ilusión.
+6|La pista candela está lista para moverte.
+6|Yo más rudo al ritmo que tu corazón.
+6|El sonido de las olas acompaña mi gesto.
