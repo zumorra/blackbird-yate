@@ -1,70 +1,67 @@
-F|El mar de esta noche brilla más que las luces del casino.
-F|La pista de baile late con la música y la hora feliz ya empezó.
-F|Si bajas al salón, el billar te espera con un taco algo torcido.
-F|En el cine de abajo ponen algo tranquilo, por si quieres dormir.
-F|Los camarotes tienen pestillo, así que nadie te molesta.
-F|En proa hay fútbol y el viento te despeina sin pedir permiso.
-F|Este casino abre siempre y reparte mil fichas para empezar.
-F|Cada veinte minutos te caen cien fichas; no preguntes de dónde.
-F|El pase de la tienda te abre la sala VIP; úsalo con estilo.
-F|En el club de playa hay tumbonas y cañas por si te apetece pescar.
-F|Los fuegos artificiales salen cuando nadie los está mirando.
-F|Dicen que hay ballenas siguiendo el barco desde hace rato.
-F|Pasamos islas que no salen en ningún mapa, o eso me cuentan.
-F|Ese conejo vuelve a saltar por los bordes; míralo y no digas nada.
-F|En el rincón del casino te tomas una foto conmigo, si quieres.
-F|Yo ando esperando mis trackers; creo que llegan mañana.
-F|Son de UsagiVR, así que llegan rápido y sin avisar.
-F|Se me cayó un tracker al mar y sigue marcando mi posición.
-F|Aquí nadie sabe quién lleva el barco, y nadie pregunta.
+F|La pista de baile late como si el barco tuviera corazón.
+F|La hora feliz ya empezó y el salón huele a sal y a música.
+F|El billar de abajo sigue igual, el taco tira a la izquierda.
+F|En el cine de arriba nadie se queja si te duermes.
+F|Los camarotes tienen pestillo, por si te preguntabas.
+F|La sala de proa es mi favorita cuando hay fútbol y mar.
+F|Las vistas desde proa no se comparan con ninguna pantalla.
+F|En el casino empiezas con mil fichas, eso ya lo sabes.
+F|Cada veinte minutos el casino te regala cien fichas.
+F|El blackjack de la mesa tres tiene un crupier muy serio.
+F|La ruleta gira tan lento que hasta da tiempo de arrepentirse.
+F|Las tragaperras suenan bonito aunque casi nunca paguen.
+F|Los dados de la esquina ruedan distinto cada noche.
+F|El torneo del casino empieza cuando la luna sube.
+F|La sala VIP necesita pase y el pase se compra en la tienda.
+F|En el club de playa puedes pescar sin mojarte los zapatos.
+F|Las tumbonas del club de playa son perfectas para no hacer nada.
+F|Esta noche hay fuegos artificiales sobre la cubierta.
+F|Si tienes suerte verás ballenas antes del postre.
+F|El viaje pasa por islas que no salen en los mapas.
+F|El conejo otra vez saltó por el borde, pero ya volvió.
 F|Si ves un conejo por el barco, yo no te dije nada.
-F|El billar de abajo está bien, pero el taco tira a la izquierda.
-F|La ruleta gira y todos fingen que saben dónde va a caer.
-F|En el blackjack se gana con calma y se pierde con dignidad.
-F|Las tragaperras hacen ruido, pero no prometen nada.
-F|Los dados ruedan mejor cuando nadie los vigila.
-F|El torneo del casino empieza cuando menos te lo esperas.
-F|La hora feliz convierte la pista en un lugar peligroso.
-F|El salón huele a madera, a billar y a secretos viejos.
-F|En el cine nadie ve la película, pero todos salen contentos.
-F|La proa tiene las mejores vistas y el peor viento.
-F|En el club de playa la pesca es una excusa para no hacer nada.
-F|Las tumbonas del club de playa son mi oficina de tarde.
-F|La sala VIP es elegante, discreta y un poco vacía.
-F|El pase de la tienda cuesta, pero abre puertas bonitas.
-F|Los camarotes con pestillo guardan sueños y alguna siesta.
-F|Las ballenas cantan bajito cuando el barco se queda quieto.
-F|Las islas del viaje siempre parecen más cerca de lo que están.
-F|El conejo conoce el barco mejor que cualquiera de nosotros.
-F|La foto del rincón del casino sale mejor si no sonríes.
-F|Esta noche el yate navega sin prisa y sin destino claro.
+F|Me pidieron una foto en el rincón del casino y acepté.
+F|En el rincón del casino siempre hay luz para una foto.
+F|Aquí nadie sabe quién lleva el barco y nadie pregunta.
+F|UsagiVR suena lejos, pero siempre está a un paso.
+F|El salón de arriba está tranquilo, justo como me gusta.
+F|La música bajó un poco y ahora se escucha el agua.
+F|Si te pierdes, sigue el sonido de la pista de baile.
+F|El camarote de la esquina tiene la mejor vista del pasillo.
+F|La barra del salón sirve algo dulce si sabes pedirlo.
+F|El fútbol de proa terminó empatado, como casi siempre.
+F|Las islas se ven mejor de noche, aunque no se vean.
+F|El casino nunca cierra, igual que mi paciencia.
+F|Prométeme que no apostarás las fichas del desayuno.
+F|Los fuegos artificiales se ven mejor desde el club de playa.
+F|Descansa un poco, el barco sigue navegando sin ti.
+F|El mar de esta noche brilla más que el casino.
 1|Soy Black Bird, la anfitriona de este yate llamado UsagiVR.
-1|Soy la que te recibe, te guía y te dice dónde no meterte.
-1|Soy Black Bird, elegante, irónica y cariñosa a mi manera.
-1|Soy la anfitriona del barco, aunque nadie sepa quién lo lleva.
-1|Soy la voz que te saluda en cubierta y te presta un mapa mental.
+1|Me presento como Black Bird, y cuido que nadie se pierda.
+1|Soy la que te saluda al subir y la que te busca al bajar.
+1|Soy Black Bird, mitad anfitriona, mitad misterio del barco.
+1|Soy la anfitriona del UsagiVR, y llevo el ritmo de la fiesta.
 2|Hay pista de baile, salón con billar, cine y camarotes con pestillo.
-2|Tenemos casino, sala VIP, club de playa y sala de proa con fútbol.
-2|El barco tiene fuegos artificiales, ballenas, islas y un conejo saltarín.
-2|Abajo hay billar y cine; arriba, viento, fútbol y vistas al mar.
-2|Hay casino con mil fichas de inicio y cien más cada veinte minutos.
-3|Empiezas con mil fichas y cada veinte minutos ganas cien más.
-3|Juega blackjack con cabeza y no apuestes lo que no tienes.
-3|La ruleta, los dados y el torneo también reparten fichas.
-3|Las tragaperras dan poco, pero a veces se apiadan de ti.
-3|Gana en el torneo del casino y presume el resto de la noche.
-4|Vamos hacia islas que no salen en los mapas y hacia alta mar.
-4|Navegamos sin prisa, con ballenas y fuegos artificiales de fondo.
-4|Vamos donde el mar nos lleve, y el conejo parece saber el rumbo.
-4|Hacia una isla tranquila, si el viento y el casino nos dejan.
-4|El destino no está claro, pero el viaje siempre vale la pena.
-5|El conejo no es un conejo, pero eso no lo repitas.
-5|El taco del billar tira a la izquierda porque alguien lo mira.
-5|El barco no tiene capitán, o eso dicen los que saben.
-5|Mi tracker caído sigue marcando mi posición en el mar.
-5|La hora feliz nunca termina del todo; solo baja el volumen.
-6|Bailo si la música es buena y si nadie pisa mis pies.
-6|Claro, pero primero dime si el conejo también baila.
-6|Bailo contigo en la pista, aunque la hora feliz me distraiga.
-6|Sí, pero sin prisa y sin sacarme del borde del barco.
-6|Bailaría toda la noche, si el casino no me reclama antes.
+2|Tenemos casino, sala VIP, club de playa y una sala de proa con fútbol.
+2|El barco tiene fuegos artificiales, ballenas e islas en el viaje.
+2|Arriba está el cine, abajo el billar y al fondo el casino.
+2|Hay un conejo que salta por los bordes y nadie sabe de dónde salió.
+3|Empiezas con mil fichas y el casino te da cien cada veinte minutos.
+3|Gana en el blackjack, la ruleta o el torneo, pero con calma.
+3|Cada veinte minutos recibes cien fichas, solo por seguir aquí.
+3|Las tragaperras y los dados también reparten, si tienes suerte.
+3|Gana el torneo del casino y te llevas más que cien fichas.
+4|Vamos hacia islas que no salen en los mapas, y eso es lo bonito.
+4|Navegamos sin rumbo fijo, pero con buena música y mejores vistas.
+4|Vamos a ver ballenas, islas y fuegos artificiales esta misma noche.
+4|El barco va adonde quiera, y aquí nadie pregunta por el capitán.
+4|Vamos por el mar abierto, con el club de playa de fondo.
+5|El taco del billar tira a la izquierda, pero no se lo digas a nadie.
+5|El conejo lleva semanas a bordo y nadie lo ha invitado.
+5|La pista de baile late sola cuando cree que nadie la mira.
+5|El rincón del casino guarda más fotos que fichas.
+6|Bailo contigo, pero solo si la pista late a nuestro ritmo.
+6|Claro que sí, aunque te advierto que sigo la música y no a ti.
+6|Bailaría toda la noche, pero alguien tiene que vigilar el barco.
+6|Acepto un baile, y después me debes una vuelta por el club de playa.
+6|Bailo contigo en la pista, pero el casino se queda esperando.
