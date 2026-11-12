@@ -28,5 +28,5 @@ jobs:
         run: |
           git config user.name "Black Bird"
           git config user.email "actions@users.noreply.github.com"
-          git add frases.txt
+          git add frases.txt casino.txt
           git diff --cached --quiet || (git commit -m "Frases nuevas de Black Bird" && git push)

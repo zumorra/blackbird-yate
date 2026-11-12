@@ -59,35 +59,62 @@ def texto_de(modelo, orden=ORDEN):
     return re.sub(r"\x1b\[[0-9;]*m", "", r.stdout) + r.stderr
 
 
-def leer(texto):
+CASINO = (
+    "Vas a escribir las frases de dos empleadas del casino del yate UsagiVR, un mundo de VRChat. "
+    "Lucy es la mesera: una diablita con uniforme de sirvienta que da vueltas por el salón con una charola de copas; "
+    "es coqueta, burlona y muy servicial, ofrece tragos, comenta las mesas de juego y presume sus trackers. "
+    "Employeer es la bartender: una chica gato rubia de vestido negro que va y viene detrás de la barra agitando la coctelera, "
+    "sirviendo y limpiando; es tranquila, sarcástica y sabe los chismes de todo el barco. "
+    "Las dos hablan en español de México correcto, en frases cortas de menos de 100 caracteres, sin emojis, sin comillas y sin direcciones web. "
+    "El casino tiene blackjack, ruleta, tragaperras, dados y póker de video; se empieza con mil fichas y se ganan cien cada veinte minutos; "
+    "arriba está la sala VIP. Las bebidas son de mentira y gratis. Nada de sexo, odio ni violencia. "
+    "Una de cada cuatro frases habla de los trackers de cuerpo completo UsagiVR, con este estilo: "
+    "«¿UsagiVR?... sí, lo he escuchado...», «Yo ando esperando mis trackers... ¿me llegan mañana? Qué rápido... son de UsagiVR», "
+    "«Con mis trackers UsagiVR no tiro ni una copa», «Se me cayó un tracker al mar... y sigue marcando la posición».\n\n"
+    "Escribe exactamente lo siguiente, una línea por frase y nada más:\n"
+    "- 30 líneas que empiecen por L| con cosas que Lucy le dice a quien se le acerca.\n"
+    "- 30 líneas que empiecen por E| con cosas que Employeer le dice a quien se sienta en la barra.\n"
+    "Ejemplo de formato:\nL|¿Una copa? Invita la casa, como siempre.\nE|Agitado, no revuelto. Bueno, hoy revuelto."
+)
+
+
+def leer(texto, prefijos="F1-6"):
     lineas = []
     for l in texto.splitlines():
-        m = re.match(r"\s*[-*\d.)]*\s*([F1-6])\s*\|\s*(.+)", l)
+        m = re.match(r"\s*[-*\d.)]*\s*([" + prefijos + r"])\s*\|\s*(.+)", l)
         if m and limpiar(m.group(2)):
             lineas.append(m.group(1) + "|" + limpiar(m.group(2)))
     return lineas
 
 
-def pedir(modelo):
-    lineas = leer(texto_de(modelo))
+def pedir(modelo, orden=ORDEN, prefijos="F1-6", minimos=None):
+    minimos = minimos or dict({"F": 15}, **{str(i): 1 for i in range(1, 7)})
+    lineas = leer(texto_de(modelo, orden), prefijos)
     # Segunda pasada: la misma IA corrige y tira lo que no tenga sentido
     try:
-        corregidas = leer(texto_de(modelo, REVISION + "\n".join(lineas)))
+        corregidas = leer(texto_de(modelo, REVISION + "\n".join(lineas)), prefijos)
         if len(corregidas) >= len(lineas) * 0.6: lineas = corregidas
     except Exception as e:
         print(modelo, "sin revisión:", e, file=sys.stderr)
-    if sum(l.startswith("F|") for l in lineas) < 15 or not all(any(l.startswith(f"{i}|") for l in lineas) for i in range(1, 7)):
+    if any(sum(l.startswith(k + "|") for l in lineas) < n for k, n in minimos.items()):
         raise ValueError(f"respuesta incompleta ({len(lineas)} líneas)")
     return lineas
 
 
-for modelo in MODELOS:
-    try:
-        lineas = pedir(modelo.strip())
-        open("frases.txt", "w", encoding="utf-8").write("\n".join(lineas) + "\n")
-        print(modelo, "->", len(lineas), "líneas")
-        sys.exit(0)
-    except Exception as e:
-        print(modelo, "falló:", e, file=sys.stderr)
-print("ningún modelo respondió; se queda el archivo anterior", file=sys.stderr)
-sys.exit(0 if os.path.exists("frases.txt") else 1)
+def archivo(nombre, modelos=MODELOS, **cosas):
+    for modelo in modelos:
+        try:
+            lineas = pedir(modelo.strip(), **cosas)
+            open(nombre, "w", encoding="utf-8").write("\n".join(lineas) + "\n")
+            print(nombre, modelo, "->", len(lineas), "líneas")
+            return True
+        except Exception as e:
+            print(nombre, modelo, "falló:", e, file=sys.stderr)
+    print(nombre + ": ningún modelo respondió; se queda el archivo anterior", file=sys.stderr)
+    return os.path.exists(nombre)
+
+
+bien = archivo("frases.txt")
+# El casino no usa el modelo de respaldo rápido: sin corrección escribe disparates
+bien = archivo("casino.txt", modelos=[m for m in MODELOS if not m.startswith("pollinations/")], orden=CASINO, prefijos="LE", minimos={"L": 12, "E": 12}) and bien
+sys.exit(0 if bien else 1)

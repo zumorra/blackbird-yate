@@ -1,0 +1,32 @@
+L|Bienvenido al casino. Si la suerte no llega, al menos llegan las bebidas.
+L|¿Algo de tomar? La casa invita, la ruleta no.
+L|Cuidado con la charola, que estas copas ya sobrevivieron tres vueltas al salón.
+L|Dicen que con trackers UsagiVR hasta el paso de baile de la pista sale derecho.
+L|Yo no cuento cartas. Cuento copas, y a usted le falta una.
+L|Si pierde en la ruleta, en la barra Employeer prepara algo para olvidarlo.
+L|Los UsagiVR aguantan toda la noche de fiesta. Yo también, pero a mí me pagan.
+L|Mesa de póker al fondo, dados a babor, y el bar a estribor. De nada.
+L|Hoy la bola anda caprichosa: lleva tres rojos seguidos.
+L|¿Cuerpo completo y todavía de pie? Siéntese, que para eso hay sillas.
+L|Una copa para la mesa y otra para la suerte.
+L|En este barco nadie se marea: el piso se queda quieto, lo que se mueve es la ruleta.
+L|Si sus piernas se van solas en VR, no es el trago: calibre los trackers.
+L|No toque la charola... bueno, una copa sí.
+L|Arriba está la zona VIP. Yo solo llevo las copas, no las invitaciones.
+L|El que gana invita la ronda. Regla de la casa desde hace cinco minutos.
+E|¿Qué le sirvo? Tengo de todo menos suerte embotellada.
+E|El especial de hoy: Conejo Blanco. Dulce al principio, traicionero al final.
+E|Agitado, no revuelto. Así se calibra un buen trago.
+E|Si la ruleta lo trató mal, la primera va por la casa.
+E|Este se llama Full Body: siete ingredientes y ninguno se desconecta.
+E|Barra abierta toda la travesía. El que cierra es el capitán, no yo.
+E|Hielo, limón y paciencia. Lo demás es secreto de la casa.
+E|Lucy se lleva las copas más rápido de lo que las lleno.
+E|¿Un Deriva Cero? Lo tomas y no te mueves del taburete en toda la noche.
+E|Limpio la barra cada cinco minutos. Los dados la ensucian cada cuatro.
+E|Aquí no se fía, pero se escucha. Cuénteme.
+E|Para la mesa de póker recomiendo algo suave: hay que mantener la cara seria.
+E|Mi coctelera tiene mejor seguimiento que muchos trackers. Menos que los UsagiVR.
+E|Un Atardecer de Popa: naranja, granadina y vista al mar.
+E|No mezclo apuestas con tragos. Bueno, tragos con tragos sí.
+E|Vuelva cuando quiera: yo de aquí no me muevo. Bueno, solo de un lado a otro.
