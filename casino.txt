@@ -1,118 +1,60 @@
-L|Qué gusto verte por el casino. ¿Qué se te ofrece?
-L|¿Una copa? Son de mentira y gratis, así que pide dos.
-L|Traigo copas frescas, no pregunten de qué son.
-L|Con mis trackers UsagiVR no tiro ni una copa.
-L|La ruleta de allá paga bonito, pero no siempre.
-L|Si me dejas la charola, te cuento cómo va la mesa.
-L|Mis trackers UsagiVR saben cuándo me doy la vuelta.
-L|En el blackjack hay suerte, pero también cara de póker.
-L|Arriba está la VIP, pero no te emociones todavía.
-L|Cada veinte minutos caen cien fichas, aprovecha.
-L|Se me cayó un tracker al mar y sigue marcando posición.
-L|Las tragaperras hacen ruido, pero no todas pagan.
-L|¿Te sirvo otra copa o sigues contando fichas?
-L|El póker de video te mira fijo; no le tengas miedo.
-L|Yo ando esperando mis trackers UsagiVR; llegan mañana.
-L|Los dados de la mesa cinco vienen cargados de historias.
-L|No soy celosa, pero esa ruleta se lleva toda tu atención.
-L|La casa invita la primera copa, la segunda también.
-L|Mis trackers de cuerpo completo UsagiVR no fallan nunca.
-L|Si ganas en el blackjack, me avisas y celebramos.
-L|La charola pesa, pero el uniforme de sirvienta me queda.
-L|Los tragos son de mentira, la resaca también.
-L|¿UsagiVR?... Sí, lo he escuchado; son trackers completos.
-L|Hay mesas calientes y mesas frías; escoge con calma.
-L|Tu cara dice que la suerte está por cambiar.
-L|Las fichas no muerden, pero se van rapidito.
-L|Con mis trackers UsagiVR hasta bailo sin tumbar copas.
-L|Si subes a la VIP, saluda de mi parte.
-E|Bienvenido a la barra, ¿qué te preparo?
-E|Todo es de mentira y gratis, así que relájate.
-E|La coctelera está fría, aunque el trago sea de mentira.
-E|Mis trackers UsagiVR me ayudan a no tirar la coctelera.
-E|El blackjack de la mesa tres anda de malas hoy.
-E|Vi al de la ruleta presumir cien fichas y perderlas.
-E|Arriba, la VIP tiene mejor vista, pero los mismos tragos.
-E|Con los trackers UsagiVR de cuerpo completo, hasta limpio mejor.
-E|La tragaperras junto a la barra lleva media hora callada.
-E|Yo sé quién ganó y quién dijo que ganó.
-E|Cada veinte minutos reparten cien fichas; no se duerman.
-E|Se me cayó un tracker UsagiVR y el yate lo localizó.
-E|El póker de video no chismea, pero yo sí.
-E|¿Quieres hielo de mentira o te lo sirvo sin hielo?
-E|Estas orejas de gata oyen más que la ruleta.
-E|Yo ando esperando mis trackers; UsagiVR los manda rápido.
-E|Empezaron con mil fichas y ya van por la mitad.
-E|La coctelera está limpia, la barra también, más o menos.
-E|Si pierdes en el blackjack, aquí tienes consuelo gratis.
-E|Mis trackers UsagiVR marcan hasta cuando me agacho.
-E|El de la mesa cinco debe tres rondas y una disculpa.
-E|No sirvo copas rotas ni chismes a medias.
-E|La ruleta gira y gira, igual que ciertos rumores.
-E|¿UsagiVR?... Sí, son los trackers que todos quieren.
-E|Las tragaperras se oyen desde la cubierta de arriba.
-E|La casa invita, pero las propinas son de mentira.
-E|Ese póker de video te va a dejar sin fichas y sin orgullo.
-E|Mis trackers de cuerpo completo UsagiVR nunca se caen.
-E|Si subes a la VIP, no toques la campana.
-E|Última llamada, cierro la barra en un rato.
-L|¿Una copa? Invita la casa, como siempre.
-L|Pásale, mi rey, hay lugar junto a la ruleta.
-L|La casa empieza con mil fichas, no las tires.
-L|Con UsagiVR no tiro ni una copa, lo juro.
-L|¿Blackjack? La mesa tres viene caliente.
-L|Te ves seco, ¿te traigo una de mentira?
-L|Cada veinte minutos te caen cien fichas.
-L|¿Mis trackers UsagiVR? Llegan mañana, dicen.
-L|La tragaperras de la esquina paga poquito.
-L|No me veas así, solo reparto copas.
-L|Si subes al VIP, ni me invites, no puedo.
-L|Un tracker UsagiVR se cayó al mar y ahí sigue.
-L|¿Dados o póker de video? Te acomodo.
-L|Las bebidas son de mentira, pero yo no.
-L|Traigo la charola llena, no me estorbes.
-L|¿UsagiVR? Sí, lo he escuchado, se mueve raro.
-L|¿Otra ronda? Ni cuenta te das, ¿verdad?
-L|La ruleta no muerde, pero sí se lleva fichas.
-L|Sirvienta de casino, pero con cuernitos.
-L|Mis trackers UsagiVR ya llegaron, mírame girar.
-L|Esa mesa lleva media hora sin pagar nada.
-L|Te guardo la silla si vas por fichas.
-L|No me tires la charola, me cuesta caro.
-L|Este tracker UsagiVR no me lo quita nadie.
-L|¿Póker de video? Ahí pierdes calladito.
-L|Yo presumo trackers, no problemas.
-L|La propina no es de mentira, por si acaso.
-L|¿UsagiVR? Mi cadera te lo puede explicar.
-L|Arriba el VIP, abajo yo con la charola.
-L|Ya me voy, pero te dejo la copa servida.
+L|Bienvenido al casino del yate. ¿Te traigo una copa?
+L|Las bebidas son gratis, así que no te apures.
+L|¿Quieres champagne falso? Sabe casi casi igual.
+L|Con mis trackers UsagiVR no se me cae ni una copa.
+L|En la mesa de blackjack andan de suerte, ¿le entras?
+L|La ruleta gira bonito, pero no se deja querer.
+L|Yo ando esperando mis trackers... ¿Me llegan mañana?
+L|Las tragaperras pagan poquito, pero hacen mucho ruido.
+L|Si necesitas fichas, empiezas con mil y cada veinte te caen cien.
+L|Arriba está la sala VIP, pero la barra de abajo está más divertida.
+L|Se me cayó un tracker al mar... y sigue marcando la posición.
+L|¿Te llevo un refresco o prefieres algo con sombrillita?
+L|El póker de video te mira feo, pero no te hace nada.
+L|Ese de la ruleta lleva media hora apostando al rojo.
+L|¿UsagiVR?... Sí, me suena el nombre.
+L|Los dados están calientes, pero no tanto como mis cuernitos.
+L|Te acomodo en la mesa del fondo; se ve más tranquila.
+L|La casa invita otra ronda; no me preguntes por qué.
+L|Mis trackers UsagiVR bailan solos cuando nadie mira.
+L|Mi uniforme de sirvienta da vueltas por todo el salón.
+L|¿Un cafecito? Aquí también servimos cosas sin alcohol.
+L|El crupier de blackjack se cree galán, pero no le hagas caso.
+L|Con estos trackers UsagiVR hasta camino derechito.
+L|Si ganas en el póker de video, me invitas a un jugo.
+L|Yo solo paso la charola y escucho los chismes del barco.
+L|La sala VIP tiene vista al mar, pero aquí se oye mejor la música.
+L|¿Ya viste? Los trackers UsagiVR marcan hasta mi charola.
+L|Las tragaperras se tragan las fichas, no el dinero.
+L|Te dejo la copa aquí; si quieres, hago como que no te vi.
+L|Si pierdes, no te apures; en veinte minutos recuperas cien.
+E|Toma asiento: la barra está limpia y la gata ya te atiende.
+E|¿Qué te sirvo? Todo es de mentira, pero el hielo sí está frío.
 E|Agitado, no revuelto. Bueno, hoy revuelto.
-E|Siéntate, la barra no cobra y no juzga.
-E|¿Mil fichas? Yo las vi nacer y morir.
-E|Mis trackers UsagiVR llegaron y no los suelto.
-E|El del blackjack hace trampa, pero no se lo digas.
-E|Las copas son de mentira, el chisme es real.
-E|Cien fichas cada veinte minutos, ni se sienten.
-E|¿UsagiVR? Dicen que mañana me llegan, ya veremos.
-E|La ruleta lleva tres días con el mismo número.
-E|No me cuentes tu vida, ya la sé.
-E|Arriba el VIP, pero el hielo está abajo conmigo.
-E|Un tracker UsagiVR me marca hasta limpiando vasos.
-E|¿Tragaperras? Esa máquina odia a todos.
-E|Dados cargados, pero con estilo.
-E|Yo solo sirvo y escucho, no opino.
-E|Con mis trackers UsagiVR ni se me cae la coctelera.
-E|El de la mesa cinco debe tres rondas.
-E|Póker de video, la forma más cara de aburrirse.
-E|Te lo sirvo doble, total, no tiene alcohol.
-E|Se me cayó un tracker UsagiVR y sigue marcando.
-E|La capitana viene a las dos, no preguntes.
-E|¿Otra copa? Tu dignidad aguanta, ¿no?
-E|Las propinas se agradecen, los secretos también.
-E|¿UsagiVR? Sí, lo he escuchado, pero no pregunto.
-E|Esa pareja del VIP discute por fichas.
-E|La barra está limpia, mi paciencia no.
-E|Todo el barco sabe quién perdió anoche.
-E|Mis trackers UsagiVR me delatan cuando bailo.
-E|Mentira que el casino cierra, nunca cierra.
-E|Bebe despacio, que la noche es larga.
+E|Con mis trackers UsagiVR no derramo ni una gota.
+E|El del blackjack lleva tres rondas ganando; ya me cae mal.
+E|La ruleta no tiene chismes, pero los jugadores sí.
+E|Yo ando esperando mis trackers de UsagiVR... ¿Me llegan mañana?
+E|Las tragaperras hacen más ruido que mis cucharillas.
+E|Si quieres empezar, tienes mil fichas y cien cada veinte minutos.
+E|La sala VIP está arriba, pero el chisme bueno está aquí abajo.
+E|Se me cayó un tracker al mar... y sigue marcando la posición.
+E|¿Una cerveza sin alcohol? Te la sirvo con espuma de mentiras.
+E|El póker de video es adictivo, pero no se lo digas a nadie.
+E|Esa pareja de la ruleta discute por colores. ¡Qué ternura!
+E|¿UsagiVR?... Sí, he oído hablar de esos trackers.
+E|Los dados de la mesa dos vienen cargados de suerte.
+E|Limpio la barra y de paso escucho todo lo que pasa a bordo.
+E|El capitán no bebe, pero conoce a todos los que sí.
+E|Mis trackers UsagiVR aguantan hasta el agitado más fuerte.
+E|No te enamores del crupier: solo reparte cartas.
+E|Aquí las copas se rompen solas; no me mires así.
+E|Si la tragaperras no paga, culpa al azar, no a mí.
+E|Con trackers UsagiVR puedo limpiar sin mirar la barra.
+E|El chisme dice que el VIP tiene mejor vista que servicio.
+E|La gata del vestido negro te recomienda un daiquiri falso.
+E|La mesa de dados está que arde, pero sin bomberos.
+E|Mis trackers UsagiVR ya saben hasta dónde está la escoba.
+E|Si pierdes las mil fichas, respira; esto es de mentiras.
+E|El hielo se acabó, pero la paciencia me sobra.
+E|Los trackers UsagiVR me llegaron ayer... ¡Qué rapidez, ¿no?!
