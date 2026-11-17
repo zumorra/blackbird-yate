@@ -1,40 +1,40 @@
-L|Ven conmigo, que aquí hay demasiada gente mirando.
-L|No preguntes, solo camina y no me sueltes la mano.
-L|Ese rincón de allá se ve perfecto para nosotros dos.
-L|Tú, sígueme, que yo sé exactamente dónde quiero tenerte.
-L|Deja de temblar, todavía no he hecho nada.
-L|Camina y sin chistar, que me gusta que obedezcas.
-L|Conozco un lugar donde nadie nos va a interrumpir.
-L|Apúrate, que se me acaba la paciencia contigo.
-L|No voltees a ver a nadie, mírame solo a mí.
-L|Te tomé de la mano y ya no te vas a escapar.
-L|Mira qué fácil eres de arrastrar cuando quieres.
-L|Un pasito más y ya estamos solos, aguanta.
-L|En esa esquina hay sombra y mucha privacidad.
-L|Ves qué rápido te traje, ni te resististe.
-L|Te aviso que allá atrás no hay cámaras ni testigos.
-L|Aprieta mi mano y sonríe, que te están viendo.
-L|No te me achicopales, apenas va empezando el juego.
-L|Tú y yo tenemos una conversación pendiente allá.
-L|Sígueme despacio, que quiero que lo disfrutes.
-L|Ya casi llegamos, no me falles ahora.
-E|Así me gusta, sin público y sin prisa.
-E|Ahora sí, nadie nos va a venir a molestar.
-E|No te me pegues tanto, apenas estamos empezando.
-E|Me encanta cuando se te pone esa cara de nervios.
-E|Aquí cerquita se escucha todo, así que cuidado.
-E|Te traje hasta acá por una razón, ¿te imaginas cuál?
-E|Ni se te ocurra gritar, sería muy obvio.
-E|Tranquilo, que el que manda aquí soy yo.
-E|Mírame bien, que quiero ver si aguantas la mirada.
-E|Sabía que ibas a caer, siempre caen.
-E|Cierra los ojos y no preguntes tanto.
-E|Te ves mejor de cerca, no te lo voy a negar.
-E|Qué carita pones cuando te hablo bajito.
-E|No te muevas, apenas te estoy tomando la medida.
-E|Me gusta cómo suena tu respiración aquí, solos.
-E|Si te portas bien, te dejo quedarte un rato.
-E|No te vayas a enamorar, yo solo juego.
-E|Quédate quietecito y déjame verte.
-E|Tú y yo vamos a llevarnos muy bien, ya verás.
-E|Esto se pone interesante, no me decepciones.
+L|Ven conmigo, te llevo a un rincón donde nadie nos vea.
+L|No sueltes mi mano, ya te tengo justo donde quiero.
+L|Caminito, que este rincón es solo para nosotros dos.
+L|Tranquilo, lindo, aquí nadie va a venir a interrumpirnos.
+L|Te atrapé en el juego y ahora te toca seguirme calladito.
+L|Mira qué rincón tan escondido, perfecto para ti y para mí.
+L|No mires atrás, tú y yo tenemos cosas de qué hablar a solas.
+L|Te agarré de la mano y no pienso soltarte tan fácil.
+L|Ven, que quiero enseñarte lo que se siente al estar cerquita.
+L|Obedece y déjame llevarte a mi rincón favorito.
+L|Este rincón es mi lugar secreto, y hoy tú eres mi invitado.
+L|Camina pegadito a mí, que no quiero perderte de vista.
+L|Ya llegamos, bombón, ahora sí no hay quien te salve.
+L|Me gusta cómo te pones cuando te llevo de la mano.
+L|No te hagas el difícil, que sé que te mueres por seguirme.
+L|Un pasito más y estarás solito conmigo en la penumbra.
+L|Te tengo bien agarrado, así que nada de arrepentirte.
+L|Ven, que a solas te voy a explicar cómo va mi juego.
+L|¿Ves ese rincón? Allá voy a poner a prueba tu paciencia.
+L|Quédate cerquita, que esta parte de la noche es mi favorita.
+E|Así me gusta, sin testigos y con toda mi atención.
+E|No te me acerques tanto, que me vas a malaconsejar.
+E|Me encanta cuando te pones nervioso, se te nota bonito.
+E|Aquí nadie nos oye, así que dime, ¿me tienes miedo?
+E|Tranquilo, solo quiero jugar un ratito contigo.
+E|Te ves tan lindo callado, aguantándote las ganas.
+E|Si te portas bien, capaz que te dejo ganar esta vez.
+E|Hueles rico y eso me pone de muy buen humor.
+E|No tientes al diablo, que la diabla aquí soy yo.
+E|Me gusta tenerte cerquita, me da una idea peligrosa.
+E|No mires a otro lado, que aquí la diversión soy yo.
+E|Te atrapé una vez, y ahora no pienso dejarte ir.
+E|Dime que sí con la mirada, no necesito escucharlo.
+E|Eres mi presa favorita, y yo soy muy buena cazando.
+E|Tan obediente que te ves, me dan ganas de que te quedes.
+E|No te pongas rojo, que se te ve todavía más guapo.
+E|Solo respira despacio y déjame disfrutar el momento.
+E|Tengo un secreto para ti, pero no te lo voy a decir.
+E|Me encanta este juego, sobre todo cuando pierdes tú.
+E|Quédate quietecito, que quiero verte sufrir de gusto.
