@@ -1,0 +1,100 @@
+A|Te tengo. Corriste bonito, pero ya se acabó.
+A|Muy lento, corazón. Yo corro para atrapar.
+A|Aquí termina tu carrera, campeón.
+A|Te di ventaja y aun así te alcancé.
+A|Mira quién cayó en mi trampa. Tú solito.
+A|No grites, nadie te escucha desde aquí.
+A|Esa cara de susto te queda preciosa.
+A|Te avisé que no corrieras tan lejos de mí.
+A|Ya eres mío, y no pienso soltarte pronto.
+A|Cinco vueltas y sigues sin aprender.
+A|Resististe más que los otros. Me gusta eso.
+A|Ahora sí, quietecito, que ya te agarré.
+A|Tu respiración me dice que lo disfrutaste.
+A|Cansado ya. Y apenas empieza lo bueno.
+A|Corriste como si de verdad pudieras escapar.
+A|Te tengo contra la pared. Fin del juego.
+A|No hay salida, lindo. Yo cerré la puerta.
+A|La próxima corre más, que me aburro fácil.
+A|Ese jadeo te delata, no disimules.
+A|Ya está, atrapado. Ahora me toca a mí.
+F|Shh, deja de moverte, nadie viene a salvarte.
+F|Entre más forcejeas, más me divierto.
+F|Ay, qué tierno. Crees que puedes conmigo.
+F|Sigue así, me encanta verte intentar.
+F|No, no, no. Esa puerta no se abre.
+F|Tranquilo, corazón, no te voy a lastimar.
+F|Otra vez te escapas y te vuelvo a atrapar.
+F|Qué nervios, eh. Se te nota todo.
+F|Suéltate si quieres. No vas a poder.
+F|Me gusta cuando te pones así de terco.
+F|Ese empujoncito no me movió ni un paso.
+F|Ya, ya. Deja de hacerme reír.
+F|No te sueltes tan rápido, apenas empezamos.
+F|Te tengo bien agarrado, ni lo intentes.
+F|Respira, hombre, que te vas a marear.
+F|Si te portas bien, quizá te deje ir.
+F|Quédate quieto y te prometo que no muerdo.
+F|Mírate, todo rojo y sin escapatoria.
+F|Me encanta que finjas que no te gusta.
+F|Chin, qué fuerza tienes. Igual no alcanza.
+P|Quédate ahí un ratito, te lo ganaste.
+P|Descansa, campeón, hoy corriste de más.
+P|Ahí en el piso te ves mejor que corriendo.
+P|No te levantes aún, me gusta verte así.
+P|Respira, que ya se acabó la persecución.
+P|Buen intento. Para la próxima te doy ventaja.
+P|Si quieres revancha, me buscas mañana.
+P|Te dejé agotado y ni siquiera me cansé.
+P|Quédate tranquilo, nadie te va a molestar.
+P|Mañana corres más, va. Te espero.
+P|Se te ve lindo cuando pierdes.
+P|Ya, levántate cuando puedas. Sin prisa.
+P|Te lo dije: conmigo no se gana fácil.
+P|Ese jadeo lo voy a recordar un rato.
+P|Tú descansa, yo aquí me quedo mirando.
+P|Otra vuelta mañana, pero corre más rápido.
+P|No te preocupes, no le cuento a nadie.
+P|Perdiste bonito. Eso también cuenta.
+P|Ahí te quedas, que te lo mereces.
+P|Nos vemos en la próxima carrera, lindo.
+L|Ven conmigo, que aquí hay demasiada gente mirando.
+L|No preguntes, solo camina y no me sueltes la mano.
+L|Ese rincón de allá se ve perfecto para nosotros dos.
+L|Tú, sígueme, que yo sé exactamente dónde quiero tenerte.
+L|Deja de temblar, todavía no he hecho nada.
+L|Camina y sin chistar, que me gusta que obedezcas.
+L|Conozco un lugar donde nadie nos va a interrumpir.
+L|Apúrate, que se me acaba la paciencia contigo.
+L|No voltees a ver a nadie, mírame solo a mí.
+L|Te tomé de la mano y ya no te vas a escapar.
+L|Mira qué fácil eres de arrastrar cuando quieres.
+L|Un pasito más y ya estamos solos, aguanta.
+L|En esa esquina hay sombra y mucha privacidad.
+L|Ves qué rápido te traje, ni te resististe.
+L|Te aviso que allá atrás no hay cámaras ni testigos.
+L|Aprieta mi mano y sonríe, que te están viendo.
+L|No te me achicopales, apenas va empezando el juego.
+L|Tú y yo tenemos una conversación pendiente allá.
+L|Sígueme despacio, que quiero que lo disfrutes.
+L|Ya casi llegamos, no me falles ahora.
+E|Así me gusta, sin público y sin prisa.
+E|Ahora sí, nadie nos va a venir a molestar.
+E|No te me pegues tanto, apenas estamos empezando.
+E|Me encanta cuando se te pone esa cara de nervios.
+E|Aquí cerquita se escucha todo, así que cuidado.
+E|Te traje hasta acá por una razón, ¿te imaginas cuál?
+E|Ni se te ocurra gritar, sería muy obvio.
+E|Tranquilo, que el que manda aquí soy yo.
+E|Mírame bien, que quiero ver si aguantas la mirada.
+E|Sabía que ibas a caer, siempre caen.
+E|Cierra los ojos y no preguntes tanto.
+E|Te ves mejor de cerca, no te lo voy a negar.
+E|Qué carita pones cuando te hablo bajito.
+E|No te muevas, apenas te estoy tomando la medida.
+E|Me gusta cómo suena tu respiración aquí, solos.
+E|Si te portas bien, te dejo quedarte un rato.
+E|No te vayas a enamorar, yo solo juego.
+E|Quédate quietecito y déjame verte.
+E|Tú y yo vamos a llevarnos muy bien, ya verás.
+E|Esto se pone interesante, no me decepciones.

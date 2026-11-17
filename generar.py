@@ -55,7 +55,7 @@ def texto_de(modelo, orden=ORDEN):
                 time.sleep(50)
     # stdin cerrado: con una tubería abierta «opencode run» se queda esperando y nunca contesta
     r = subprocess.run(["opencode", "run", "--model", modelo, orden], stdin=subprocess.DEVNULL,
-                       capture_output=True, text=True, timeout=300, cwd="/tmp")
+                       capture_output=True, text=True, timeout=300, cwd=os.environ.get("OC_CWD", "/tmp"))
     return re.sub(r"\x1b\[[0-9;]*m", "", r.stdout) + r.stderr
 
 
@@ -77,6 +77,28 @@ CASINO = (
     "Ejemplo de formato:\nL|¿Una copa? Invita la casa, como siempre.\nE|Agitado, no revuelto. Bueno, hoy revuelto."
 )
 
+
+# Hub de creadores: en dos encargos cortos (uno largo pasa de los 5 minutos de la IA gratis)
+HUB_BASE = (
+    "Vas a escribir los diálogos de las NPC de un mundo de VRChat solo para adultos llamado Hub de creadores. "
+    "Es un juego de rol entre adultos que lo eligen: las NPC son chicas anime atrevidas y dominantes que persiguen a los jugadores, "
+    "los atrapan en un juego de persecución y los provocan. Todo es ficción y consentido por quien entra al juego. "
+    "Hablan en español de México correcto, en frases cortas de menos de 90 caracteres, sin emojis, sin comillas y sin direcciones web. "
+    "Tono: coqueto, burlón, dominante y juguetón; insinuante pero sin describir actos sexuales de forma gráfica. "
+    "Nada de menores, odio ni violencia real.\n\nEscribe exactamente lo siguiente, una línea por frase y nada más:\n"
+)
+HUB1 = HUB_BASE + (
+    "- 20 líneas que empiecen por A| con lo que dice la NPC justo cuando te atrapa en la persecución.\n"
+    "- 20 líneas que empiecen por F| con lo que dice mientras forcejeas para soltarte y ella no te deja ir.\n"
+    "- 20 líneas que empiecen por P| con lo que dice cuando termina y te deja tirado en el piso, agotado.\n"
+    "Ejemplo de formato:\nA|Te tengo. Corriste bonito, pero no lo suficiente.\nF|Shh, deja de moverte, nadie va a venir a salvarte.\n"
+    "P|Quédate ahí un ratito, te lo ganaste."
+)
+HUB2 = HUB_BASE + (
+    "- 20 líneas que empiecen por L| con lo que dice cuando te lleva de la mano a un rincón para estar a solas.\n"
+    "- 20 líneas que empiecen por E| con lo que te susurra ya a solas contigo, muy coqueta.\n"
+    "Ejemplo de formato:\nL|Ven conmigo, conozco un lugar más tranquilo.\nE|Así me gusta, sin prisa."
+)
 
 def leer(texto, prefijos="F1-6"):
     lineas = []
@@ -117,4 +139,11 @@ def archivo(nombre, modelos=MODELOS, **cosas):
 bien = archivo("frases.txt")
 # El casino no usa el modelo de respaldo rápido: sin corrección escribe disparates
 bien = archivo("casino.txt", modelos=[m for m in MODELOS if not m.startswith("pollinations/")], orden=CASINO, prefijos="LE", minimos={"L": 12, "E": 12}) and bien
+# Hub de creadores: diálogos de las NPC (persecución y «Me dejo llevar»); el mundo lee hub.txt
+SIN_POLL = [m for m in MODELOS if not m.startswith("pollinations/")]
+h1 = archivo("hub-a.txt", modelos=SIN_POLL, orden=HUB1, prefijos="AFP", minimos={k: 10 for k in "AFP"})
+h2 = archivo("hub-b.txt", modelos=SIN_POLL, orden=HUB2, prefijos="LE", minimos={k: 10 for k in "LE"})
+if h1 and h2:
+    open("hub.txt", "w", encoding="utf-8").write(open("hub-a.txt", encoding="utf-8").read() + open("hub-b.txt", encoding="utf-8").read())
+bien = h1 and h2 and bien
 sys.exit(0 if bien else 1)
