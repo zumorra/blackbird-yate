@@ -1,0 +1,35 @@
+name: Retos del Buckshot
+
+# IA aparte de la de los diálogos (frases.yml): otro horario y otro orden de modelos.
+# Escribe retos.txt («id|texto») para la sala «Buckshot de retos» del Hub de creadores.
+on:
+  schedule:
+    - cron: "53 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: retos
+  cancel-in-progress: false
+
+jobs:
+  retos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Cliente de OpenCode
+        run: npm install -g opencode-ai@1 --no-fund --no-audit
+      - name: Pedir retos a la IA
+        run: mkdir -p /tmp/oc && OC_CWD=/tmp/oc python3 retos.py < /dev/null
+      - name: Publicar si cambiaron
+        run: |
+          git config user.name "Black Bird"
+          git config user.email "actions@users.noreply.github.com"
+          git add retos.txt retos-historial.txt
+          git diff --cached --quiet && exit 0
+          git commit -m "Retos nuevos del Buckshot"
+          for i in 1 2 3; do git pull --rebase -q && git push && exit 0; sleep 10; done
+          exit 1
