@@ -1,40 +1,40 @@
-L|Ven conmigo, te llevo a un rincón donde nadie nos vea.
-L|No sueltes mi mano, ya te tengo justo donde quiero.
-L|Caminito, que este rincón es solo para nosotros dos.
-L|Tranquilo, lindo, aquí nadie va a venir a interrumpirnos.
-L|Te atrapé en el juego y ahora te toca seguirme calladito.
-L|Mira qué rincón tan escondido, perfecto para ti y para mí.
-L|No mires atrás, tú y yo tenemos cosas de qué hablar a solas.
-L|Te agarré de la mano y no pienso soltarte tan fácil.
-L|Ven, que quiero enseñarte lo que se siente al estar cerquita.
-L|Obedece y déjame llevarte a mi rincón favorito.
-L|Este rincón es mi lugar secreto, y hoy tú eres mi invitado.
-L|Camina pegadito a mí, que no quiero perderte de vista.
-L|Ya llegamos, bombón, ahora sí no hay quien te salve.
-L|Me gusta cómo te pones cuando te llevo de la mano.
-L|No te hagas el difícil, que sé que te mueres por seguirme.
-L|Un pasito más y estarás solito conmigo en la penumbra.
-L|Te tengo bien agarrado, así que nada de arrepentirte.
-L|Ven, que a solas te voy a explicar cómo va mi juego.
-L|¿Ves ese rincón? Allá voy a poner a prueba tu paciencia.
-L|Quédate cerquita, que esta parte de la noche es mi favorita.
-E|Así me gusta, sin testigos y con toda mi atención.
-E|No te me acerques tanto, que me vas a malaconsejar.
-E|Me encanta cuando te pones nervioso, se te nota bonito.
-E|Aquí nadie nos oye, así que dime, ¿me tienes miedo?
-E|Tranquilo, solo quiero jugar un ratito contigo.
-E|Te ves tan lindo callado, aguantándote las ganas.
-E|Si te portas bien, capaz que te dejo ganar esta vez.
-E|Hueles rico y eso me pone de muy buen humor.
-E|No tientes al diablo, que la diabla aquí soy yo.
-E|Me gusta tenerte cerquita, me da una idea peligrosa.
-E|No mires a otro lado, que aquí la diversión soy yo.
-E|Te atrapé una vez, y ahora no pienso dejarte ir.
-E|Dime que sí con la mirada, no necesito escucharlo.
-E|Eres mi presa favorita, y yo soy muy buena cazando.
-E|Tan obediente que te ves, me dan ganas de que te quedes.
-E|No te pongas rojo, que se te ve todavía más guapo.
-E|Solo respira despacio y déjame disfrutar el momento.
-E|Tengo un secreto para ti, pero no te lo voy a decir.
-E|Me encanta este juego, sobre todo cuando pierdes tú.
-E|Quédate quietecito, que quiero verte sufrir de gusto.
+L|Dame la mano y no hagas preguntas.
+L|Tranquilo, solo vamos a un rincón.
+L|Sígueme y no te me pierdas.
+L|Te llevo a un lugar donde nadie nos vea.
+L|No mires atrás, camina conmigo.
+L|Órale, camina pegadito a mí.
+L|Ese rincón está libre y ahora es nuestro.
+L|Te tomé de la mano, no me sueltes.
+L|Me gusta cuando te dejas llevar.
+L|No me hagas jalarte, mejor ven solito.
+L|Aquí hay mucha gente, vámonos para allá.
+L|Ya te tengo, ahora sígueme sin chistar.
+L|Ven, que quiero hablar contigo a solas.
+L|No pongas esa cara, no muerdo tanto.
+L|Camina despacio y disfruta el camino.
+L|Te llevo al fondo, nadie va a interrumpir.
+L|Agarra mi mano, y no es una sugerencia.
+L|Ese rincón es perfecto para ti y para mí.
+L|No te arrepentirás, confía en mí.
+L|Ya casi llegamos, no te me aceleres.
+E|Ya estamos solos, ¿y ahora qué vas a hacer?
+E|Así me gusta, bien cerquita de mí.
+E|No te pongas rojo, me gustas más así.
+E|Aquí nadie nos escucha, puedes hablar.
+E|Me encanta tenerte contra la pared.
+E|Te tengo justo donde quería.
+E|No mires la puerta, mírame a mí.
+E|¿Ves lo fácil que fue atraparte?
+E|Me gusta cuando te quedas sin palabras.
+E|Susurra mi nombre, pero bajito.
+E|No te me escapes, me enojaría.
+E|Estás nervioso, y eso me gusta mucho.
+E|Qué carita de nervios, se te ve bien.
+E|Yo mando aquí, ¿quedó claro?
+E|Pórtate bien y te va a ir mejor.
+E|Me debes una carrera, y la voy a cobrar.
+E|No me hagas esperar, no me gusta.
+E|Ven, que quiero verte sonreír de cerca.
+E|Eres mío esta noche, no lo olvides.
+E|Tranquilo, solo quiero jugar contigo.

@@ -1,60 +1,59 @@
-L|¿Una copa? Invita la casa, como siempre.
-L|La ruleta está caliente, pero no prometo nada.
+L|Bienvenido al casino, ¿te acomodo en una mesa?
+L|Traigo copas frescas, todas son de mentira y gratis.
+L|La ruleta va rápido, pero no te confíes.
 L|Con mis trackers UsagiVR no tiro ni una copa.
-L|Mesa de blackjack libre, por si te animas.
-L|Las tragamonedas pagan de a poquito hoy.
-L|Yo ando esperando mis trackers UsagiVR; llegan mañana.
-L|Mil fichas de entrada y cien cada veinte minutos.
-L|¿Subes a la sala VIP? Ahí se ve todo el yate.
-L|Mi uniforme aguanta el trajín, pero la charola no.
-L|Se me cayó un tracker al mar y sigue marcando.
-L|El póker de video no muerde, acércate.
-L|¿Te traigo otra? Las bebidas son de mentira, tranquilo.
-L|Ese de la mesa tres lleva media hora con la misma cara.
-L|Con trackers UsagiVR hasta camino derechito.
-L|Los dados ruedan raro cuando nadie mira.
-L|¿UsagiVR? Sí, lo he escuchado; se ven cómodos.
-L|La casa invita, pero las propinas son de mentira también.
-L|Ando de aquí para allá; la barra me queda lejos.
-L|Tu vaso está vacío; eso es una emergencia.
-L|Mis trackers UsagiVR marcan hasta cuando me río.
-L|La mesa cinco pide hielo y paciencia.
-L|¿Quieres que te explique el blackjack? Es fácil.
-L|Con estos trackers ya no bailo como robot.
-L|El casino abre temprano y cierra cuando menos piensas.
-L|Traigo copas, chismes y una que otra sonrisa.
-L|Los trackers UsagiVR me siguen hasta la cocina.
-L|Si ganas cien fichas, invítame un refresco falso.
-L|La alfombra del VIP es más suave, dicen.
-L|Cuida tus fichas, que luego no hay.
-L|¿Otra vuelta? Ahorita te la llevo, prometido.
-E|Siéntate; el taburete de la esquina es el más cómodo.
-E|¿Qué te sirvo? Todo es sin alcohol y sin costo.
-E|La coctelera suena mejor cuando hay propina falsa.
-E|Las mesas de póker de video están de suerte.
-E|Con mis trackers UsagiVR no tiro ni una botella.
-E|El de la mesa dos lleva tres tragos y cero suerte.
-E|Arriba está el VIP; abajo se chismea mejor.
-E|Se me cayó un tracker al mar y sigue marcando.
+L|¿Blackjack? Te veo cara de suerte, no de arrepentido.
+L|Las tragaperras pagan poco, pero consuelan bonito.
+L|Si ganas fichas, me das una propina de mentira.
+L|¿UsagiVR? Sí, lo he escuchado; dicen que llegan mañana.
+L|Arriba está la sala VIP, pero primero hay que ganarse el pase.
+L|Empiezas con mil fichas, así que no las apuestes todas.
+L|El póker de video no muerde, pero sí se burla.
+L|Yo ando esperando mis trackers UsagiVR, ¿me llegan mañana? ¡Qué rápido!
+L|¿Una copa de la casa? La casa invita, no te apures.
+L|En la mesa tres van perdiendo y todavía piden dados.
+L|Cada veinte minutos te caen cien fichas, no es magia.
+L|Se me cayó un tracker al mar y sigue marcando la posición.
+L|Soy la diablita del salón, pero sirvo con cariño.
+L|La barra está a un paso; la suerte, a veces, más lejos.
+L|¿Te traigo otra? Esta ronda la firma el capitán.
+L|Con los trackers UsagiVR hasta bailo sin chocar.
+L|El blackjack no regala nada, pero yo sí sonrío.
+L|Las fichas no se comen, aunque parezcan galletas.
+L|¿Mis trackers? UsagiVR, cuerpo completo, una maravilla.
+L|La mesa cinco pide más copas y menos consejos.
+L|Mil fichas de inicio y cien cada veinte minutos, fácil.
+L|¿Subimos a la VIP? Primero hay que ganarse el acceso.
+L|Estoy esperando mis trackers de UsagiVR; me llegan mañana.
+L|Las bebidas son de mentira, así que brinda sin miedo.
+L|Si necesitas algo, silba y aparezco con la charola.
+E|Siéntate, la barra está abierta y la bebida es gratis.
+E|¿Qué te sirvo? Todo es de mentira, así que no hay resaca.
+E|La coctelera suena mejor cuando hay chisme de por medio.
+E|Con mis trackers UsagiVR no derramo ni una gota.
+E|Vi tu última mano de póker, no digo nada.
+E|El casino te da mil fichas; no te las acabes de una vez.
+E|Cada veinte minutos caen cien más, paciencia.
+E|¿UsagiVR? Sí, lo he escuchado; dicen que van bien.
+E|La rubia de la barra sabe todo, pero cobra en secretos.
+E|Las tragaperras de allá pagan, pero no siempre.
+E|Arriba está la VIP, se sube con fichas y con calma.
+E|Ando esperando mis trackers UsagiVR, ¿me llegan mañana? ¡Qué rápido!
 E|Agitado, no revuelto. Bueno, hoy revuelto.
-E|Las tragamonedas comen fichas y devuelven humo.
-E|Yo ando esperando mis trackers UsagiVR para mañana.
-E|El blackjack paga si no te emocionas.
-E|¿UsagiVR? Sí, lo he escuchado; son de fiar.
-E|La barra siempre sabe quién perdió en la ruleta.
-E|Te limpio el vaso y te cuento el chisme.
-E|Mis trackers UsagiVR hasta marcan cuando suspiro.
-E|Cien fichas cada veinte minutos, no las quemes.
-E|Ese gato del yate no paga impuestos, dicen.
-E|¿Quieres hielo? Es de mentira, pero enfría el ánimo.
-E|Los dados y yo tenemos una relación tensa.
-E|Con trackers UsagiVR ya no derramo la coctelera.
-E|La mesa cuatro pidió otra ronda y mucha paciencia.
-E|El VIP tiene mejor vista, pero peor chisme.
-E|Si pierdes mil, respira; empiezas de cero.
-E|Las bebidas son gratis; la cruda también es falsa.
-E|Yo ando esperando trackers UsagiVR; ¡qué rápido llegan!
-E|Perder también es parte del paseo.
-E|La ruleta gira y el barco ni se mueve.
-E|El hielo se acabó, pero la paciencia no.
-E|Ven cuando quieras; aquí siempre hay lugar.
+E|La mesa de dados está animada, pero no preguntes.
+E|Si Lucy te ofrece una copa, acepta; es parte del espectáculo.
+E|Se me cayó un tracker al mar y sigue marcando la posición.
+E|El póker de video no se queja, pero tampoco perdona.
+E|Tu vaso está limpio; de tu suerte no sé.
+E|Las bebidas son falsas, la resaca también.
+E|Con los trackers UsagiVR trabajo más cómoda, la verdad.
+E|El blackjack te mira fijo, no parpadees.
+E|No te cuento chismes con la barra llena, espera.
+E|¿Otra ronda? La casa invita, no te apures.
+E|¿Mis trackers? UsagiVR, cuerpo completo, ni se sienten.
+E|La ruleta gira parejo, tú decides cuándo saltar.
+E|Mil fichas al entrar, cien cada veinte minutos, ya sabes.
+E|Si subes a la VIP, saluda de mi parte.
+E|Mis trackers UsagiVR llegan mañana, ya quiero probarlos.
+E|La barra siempre tiene un lugar para quien no corre.
+E|Cuando lleguen mis trackers UsagiVR, atenderé más rápido.
