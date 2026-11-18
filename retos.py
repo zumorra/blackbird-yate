@@ -10,7 +10,7 @@ import hashlib, json, os, random, re, subprocess, sys, time, unicodedata, urllib
 MODELOS = os.environ.get("MODELOS_RETOS", "opencode/minimax-m3.1-flash-free,opencode/deepseek-v4.1-flash-free,pollinations/openai-fast").split(",")
 HISTORIAL, SALIDA, CUANTOS, MAXIMO = "retos-historial.txt", "retos.txt", 40, 120
 
-TEMAS = ["voz y susurros", "poses del avatar", "confesiones", "juego de roles", "órdenes de la otra persona",
+TEMAS = ["gemidos y jadeos", "dominación y sumisión", "rol erótico", "lo que le harías", "voz y susurros", "poses del avatar", "confesiones", "juego de roles", "órdenes de la otra persona",
          "miradas y cercanía en VR", "baile", "elogios", "obediencia por un tiempo", "provocación con la ropa del avatar",
          "fantasías contadas", "mímica", "apuestas para la siguiente partida", "apodos", "imitar sonidos"]
 
@@ -18,7 +18,7 @@ BASE = (
     "Vas a escribir retos para un minijuego de un mundo de VRChat solo para adultos. Dos personas adultas que son pareja "
     "a distancia juegan Buckshot Roulette en la misma sala virtual; antes de la partida eligen un reto y quien pierde lo cumple. "
     "Cada reto se hace dentro de VRChat: con la voz, con el avatar, con poses, movimientos, miradas o palabras. "
-    "Tono: coqueto, atrevido, sensual y juguetón, con picante subido de tono, pero sin describir actos sexuales de forma gráfica. "
+    "Tono: claramente sexual y caliente, no tierno ni romántico: deseo, provocación, dominar y obedecer, gemidos y jadeos por la voz, poses sugerentes del avatar, contar con detalle lo que le harías, describir lo que te excita, rol erótico entre los dos, quitarle o ponerle ropa al avatar si el avatar lo permite. Explícito en la intención pero sin palabras vulgares de anatomía. "
     "Todo es entre adultos que lo eligen; cualquiera puede decir paso. "
     "Prohibido: menores, edades, parentescos, gente de fuera de la pareja, falta de consentimiento, dolor o peligro real, "
     "alcohol o drogas, quitarse el visor, mandar fotos, datos personales, dinero o cualquier cosa fuera del juego. "
@@ -108,7 +108,7 @@ def main():
     orden = (BASE + f"Esta vez inclínate por estos temas, sin limitarte a ellos: {', '.join(temas)}.\n"
              + ("No repitas ni parafrasees estos retos que ya salieron:\n" + "\n".join("- " + t for t in recientes) + "\n\n" if recientes else "")
              + f"Escribe exactamente {CUANTOS} líneas, cada una empezando por R| y nada más.\n"
-             "Ejemplo de formato:\nR|Susúrrale al oído de su avatar lo que más te gusta de su voz.\nR|Quédate de rodillas frente a su avatar hasta que te diga que te levantes.")
+             "Ejemplo de formato:\nR|Gime su nombre al oído de su avatar tres veces, cada vez más despacio.\nR|Quédate de rodillas frente a su avatar y obedece cada orden que te dé hasta la siguiente partida.\nR|Descríbele con la voz más lenta que puedas lo primero que le harías si estuvieran solos.")
     nuevos = []
     for modelo in [m.strip() for m in MODELOS if m.strip()]:
         try:
