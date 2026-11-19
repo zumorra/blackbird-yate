@@ -1,60 +1,44 @@
-L|¿Una copa? Invita la casa, como siempre.
-L|Pásale, la ruleta está caliente y las fichas son de mentira.
-L|Con mis trackers UsagiVR no tiro ni una copa.
-L|Te recomiendo el blackjack, pero no me culpes si pierdes.
-L|Empezaste con mil fichas, ¿ya andas en la quiebra?
-L|Cada veinte minutos te caen cien fichas, no te angusties.
-L|Los dados de la mesa tres están de lo más movidos.
-L|¿UsagiVR? Sí, lo he escuchado, dicen que van de lujo.
-L|Si quieres algo fuerte, pídelo; todo es de mentira y gratis.
-L|La tragaperras del rincón paga, pero solo en fichas.
-L|Arriba está la sala VIP; yo no puedo subir, pero se ve bonita.
-L|Se me cayó un tracker al mar... y sigue marcando la posición.
-L|¿Otra copa? Traigo charola nueva y muchas ganas de servir.
-L|El póker de video te está viendo feo, mejor cambia de máquina.
-L|No te me apures, el barco no se hunde y las bebidas son gratis.
-L|Mis trackers UsagiVR aguantan hasta el vaivén del yate.
-L|¿Vienes por el chisme o por la copa? Las dos te las doy.
-L|La mesa cinco va ganando, pero no se lo digas a nadie.
-L|Yo con mis trackers UsagiVR hasta bailo sin tirar la charola.
-L|¿Quieres que te traiga agua? También es de mentira, no te creas.
-L|El blackjack cierra a medianoche, así que ve apartando fichas.
-L|Los trackers UsagiVR llegaron volando, ni el mar los detiene.
-L|Esa copa va por la casa; lo malo es que sabe a cartón.
-L|Ando de aquí para allá, pero siempre me acuerdo de tu mesa.
-L|Con estos trackers UsagiVR hasta la barra se ve más cerca.
-L|La ruleta no muerde, pero sí se lleva tus fichas.
-L|¿Te cuento del jugador que ganó cien y se fue corriendo?
-L|UsagiVR otra vez, sí; ya parezco anuncio de trackers.
-L|Pídeme lo que quieras, pero no me pidas que te preste fichas.
-L|Las bebidas son gratis, el chisme también, así que pide dos.
-E|Agitado, no revuelto. Bueno, hoy revuelto.
-E|¿Qué te sirvo? Todo es de mentira, pero el hielo sí es hielo.
-E|El de la mesa dos pidió lo mismo tres veces; ya sospecho.
-E|Las propinas no existen aquí, así que deja el chisme.
-E|Cien fichas cada veinte minutos; no es mucho, pero ayuda.
-E|¿UsagiVR? Sí, he oído que sus trackers llegan rapidito.
-E|La sala VIP está arriba; yo solo sé lo que baja en las copas.
-E|Ese póker de video lleva ganando toda la noche, ¡qué aburrido!
-E|Te preparo un trago sin alcohol, como todos los de esta barra.
-E|Los trackers UsagiVR me los pongo hasta para limpiar la barra.
-E|La ruleta va perdiendo clientela; será por el humo del chisme.
-E|No me cuentes tu vida, pero si es chisme, adelante.
-E|Blackjack, dados o tragaperras: todos acaban en la barra.
-E|¿Otra ronda? Bueno, pero no me rompas la coctelera.
-E|Mis trackers UsagiVR se mojaron con el hielo y ni se quejan.
-E|El jugador de la mesa cuatro dice que va ganando; yo digo que sueña.
-E|Todo es gratis, así que no te sientas mal por pedir otra.
-E|Tengo un chisme del puerto, pero primero termino de limpiar.
-E|Con estos trackers UsagiVR hasta la coctelera me queda perfecta.
-E|La mesa de blackjack se vació; dicen que por una mala racha.
-E|¿Quieres que te sirva agua? Aquí hasta el agua es de mentira.
-E|El de la tragaperras no se mueve desde ayer; ya me preocupa.
-E|Yo ando esperando mis trackers UsagiVR... ¿Me llegan mañana? ¡Qué rápido!
-E|Si ganas cien fichas, no presumas; aquí todos están en la misma.
-E|La barra se limpia sola, o eso le digo al capitán.
-E|Mis trackers UsagiVR detectan hasta cuando se me cae el vaso.
-E|Un trago para ti y otro para la coctelera; nadie sale perdiendo.
-E|Arriba en la VIP hay más chisme que en toda la cubierta.
-E|Los dados de la mesa tres rodaron por el suelo; ¡qué escándalo!
-E|¿UsagiVR? Con esos trackers ya no necesito espejo.
+L|¿Qué onda, mi rey? ¿Te sirvo una copa o vienes a ver las mesas?
+L|Traigo cócteles sin alcohol, pero con toda la actitud de la casa.
+L|Si buscas suerte, la ruleta de allá anda de buenas hoy.
+L|La mesa de blackjack está caliente, pero no tanto como yo.
+L|Mil fichas de arranque y cien cada veinte minutos, corazón.
+L|¿Te llevo algo a la mesa o prefieres coquetear con la tragaperras?
+L|Arriba está la sala VIP, pero yo bajo hasta donde estés tú.
+L|Las bebidas son de mentira, así que pídete la más cara sin culpa.
+L|El póker de video te mira feo; yo te miraría bonito.
+L|Si la ruleta no te quiere, aquí tienes una mesera que sí.
+L|Los dados de la mesa cinco andan más locos que mi charola.
+L|¿Una copa de la casa? Va de volada, no te me distraigas.
+L|La tragaperras de la esquina acaba de pagar, ve corriendo.
+L|Te guardo la mejor mesa, pero solo si me cuentas un chisme.
+L|No te apures, aquí se gana cada veinte minutos, mi cielo.
+L|El póker de video no muerde, pero la suerte sí anda brava.
+L|¿Quieres que te pase la charola? Traigo copas y puras buenas vibras.
+L|En la mesa tres hay un tipo que no suelta el blackjack, qué bárbaro.
+L|La casa invita la primera, la segunda ya es cosa tuya.
+L|Traigo prisa, pero por ti hago una excepción y me quedo.
+L|Mil fichas se van rapidito si le sigues a la ruleta, corazón.
+L|Aquí estoy si necesitas otra copa o un consejo de apuestas.
+E|Bienvenido a la barra. Aquí las bebidas son falsas y gratis.
+E|Agitado, no revuelto. Bueno, hoy revuelto y con hielo.
+E|El de la mesa cuatro no dejó propina ni al crupier, imagínate.
+E|¿Cóctel de la casa? Lleva todo menos alcohol, así que relájate.
+E|La barra está limpia, pero los chismes están más brillantes.
+E|Si vienes por póker de video, la máquina dos anda de malas.
+E|Arriba, la sala VIP tiene mejor vista, pero peores secretos.
+E|El blackjack paga, pero la casa siempre se queda con el chisme.
+E|Mil fichas al entrar y cien cada veinte minutos, ni tan mal.
+E|Ese de la esquina lleva tres tragos y dos mentiras, qué constancia.
+E|La tragaperras tres acaba de pagar; no le digas a nadie.
+E|Te sirvo la copa, pero no te creas que soy tu terapeuta.
+E|Los dados de la mesa cinco andan raros; yo no apostaría.
+E|El capitán dice que la ruleta está bendita; yo digo que está floja.
+E|Si la bebida sabe rara, es que le falta imaginación, no alcohol.
+E|La barra cierra cuando el último chisme se termina, así que pide.
+E|Vi al de la mesa dos pedir préstamo para el póker, pobrecito.
+E|La sala VIP está arriba, pero los chismes buenos se quedan aquí.
+E|¿Otra copa? Va, pero primero dime qué se trae la mesa seis.
+E|El hielo es de mentira, la resaca también, así que disfruta.
+E|La tragaperras de la entrada lleva una racha; no la interrumpas.
+E|Ese de la barra no sabe si juega o solo viene a escuchar chismes.
