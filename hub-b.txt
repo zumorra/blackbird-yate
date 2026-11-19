@@ -1,40 +1,40 @@
-L|Ven conmigo, ya te atrapé y no pienso soltarte.
-L|Tranquilo, solo quiero tenerte lejos de las miradas.
-L|Sígueme al rincón, no me hagas esperar.
-L|Te tomé de la mano, ahora obedece tantito.
-L|Ese rincón está solo y tú vienes conmigo.
-L|No te me aceleres, falta lo bueno.
-L|Camina, que ahí te voy a decir un secreto.
-L|Te vi de lejos y decidí que eras mío.
-L|Nadie te va a rescatar, así que disfruta.
-L|Ven, que quiero presumirte en privado.
-L|Agarra mi mano y no sueltes, lindo.
-L|¿Ves ese rincón? Ahí empieza tu castigo.
-L|No mires atrás, tú vienes conmigo.
-L|Me gusta cuando te haces el difícil.
-L|Paso cortito, que ya casi llegamos.
-L|No me obligues a cargarte, mejor camina.
-L|En el rincón te voy a poner en tu lugar.
-L|Ya te tengo, mi rey, ahora sí no hay escape.
-L|Te llevo a un lugar donde solo mando yo.
-L|Quédate cerca, no quiero perderte de vista.
-E|Así me gusta, calladito y bien cerca.
-E|Aquí nadie nos ve, ¿qué me vas a decir?
-E|No te pongas nervioso, eso me gusta más.
-E|Te traje hasta acá porque me caes muy bien.
-E|Mírame, no tengas miedo, no muerdo tan feo.
-E|Estás temblando y ni te he dicho nada.
-E|Me encanta tenerte contra la pared.
-E|¿Sabes lo que quiero? Que te quedes quieto y me escuches.
-E|Si corres, te atrapo otra vez y me va a gustar.
-E|Tranquilo, solo quiero jugar un ratito contigo.
-E|Esa carita me da ganas de no dejarte ir.
-E|No me mires así, me dan ganas de no soltarte.
-E|Te gusta que te mande, ¿verdad, lindo?
-E|Shhh, no digas nada, déjame disfrutarte.
-E|Aquí mando yo, y a ti te encanta.
-E|Me debes una, y la voy a cobrar despacio.
-E|No hay salida, mi cielo, solo yo y tú.
-E|Quédate quieto, que se me antoja mirarte.
-E|Eres mío desde que te atrapé, ¿o no?
-E|Ven acá, que todavía no termino contigo.
+L|Ven conmigo, no mires atrás.
+L|Te llevo a un rincón donde nadie nos vea.
+L|Dame la mano y no hagas preguntas.
+L|Sé que quieres seguirme, no lo niegues.
+L|Camina despacio, quiero disfrutar esto.
+L|Ese rincón está esperando por nosotros.
+L|No te sueltes, apenas empieza lo bueno.
+L|Te tengo de la mano y no te me escapas.
+L|Mira que si corres, te atrapo otra vez.
+L|Ven, que quiero hablar contigo a solas.
+L|Aquí hay demasiada gente, vámonos ya.
+L|Te llevo a mi lugar favorito de la fiesta.
+L|Confía en mí, solo un momento a solas.
+L|Esa sonrisa tuya me dice que sí.
+L|No pongas esa cara, solo vamos a platicar.
+L|Me gusta cómo se siente tu mano en la mía.
+L|Un paso más y estarás justo donde quiero.
+L|Deja que te guíe, yo sé lo que hago.
+L|No hay prisa, ya te tengo conmigo.
+L|Camina junto a mí y no te arrepentirás.
+E|Así me gusta, sin prisa.
+E|Nadie nos escucha, podemos hablar tranquilos.
+E|Estás más guapo cuando te pones nervioso.
+E|No te asustes, solo quiero verte sonreír.
+E|Me encanta tenerte tan cerca de mí.
+E|Ese temblor en tus manos me da ideas.
+E|Si te portas bien, te dejo quedarte un rato.
+E|No mires la puerta, mírame a mí.
+E|Sabía que ibas a caer en mi trampa.
+E|Te ves adorable cuando intentas disimular.
+E|Aquí solos se siente mucho mejor, ¿no?
+E|Baja la voz, esto es solo entre tú y yo.
+E|Quiero saber qué te pone tan nervioso.
+E|No te prometo portarme bien.
+E|Me gusta cuando me sigues sin protestar.
+E|Tranquilo, no muerdo... a menos que quieras.
+E|Te tengo acorralado y me encanta la vista.
+E|Dime que sí con esa mirada que me pones.
+E|Un secreto: me gusta más cuando te sonrojas.
+E|Ya estás aquí, ahora solo déjate consentir.
