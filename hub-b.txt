@@ -1,39 +1,39 @@
-L|Ven conmigo, que aquí hay demasiada gente.
-L|Toma mi mano y no te sueltes, ¿eh?
-L|Te llevo a un rincón donde nadie nos vea.
-L|No mires atrás, ya te tengo atrapado.
-L|Camina derecho o te jalo más fuerte.
-L|Ese rincón es nuestro, nadie más entra.
-L|Quietecito, que te llevo yo.
-L|No te me aceleres, todavía no empieza.
-L|Te agarré la mano, ahora es tu problema.
-L|Sígueme y no hagas preguntas.
-L|Al fondo hay un lugar perfecto para ti.
-L|No te sueltes, me gusta tenerte cerca.
-L|Tú y yo vamos a platicar a solas.
-L|No pongas esa cara, apenas voy empezando.
-L|Te llevo al rincón y ahí te explico.
-L|Mi mano es tu única salida, ni lo intentes.
-L|Ese rincón guarda secretos, te va a gustar.
-L|Ya te tengo, no hay vuelta atrás.
-L|Ven, que lo bueno empieza en la esquina.
-E|Aquí nadie nos escucha, ¿verdad?
-E|Así me gusta, sin testigos y sin prisa.
-E|No te pongas nervioso, solo quiero jugar.
-E|Me gusta cuando te pones colorado.
-E|Tú sí sabes seguir instrucciones.
-E|Quédate quieto y déjame verte.
-E|No mires a otro lado, estoy aquí.
-E|Te tengo donde quería, precioso.
-E|Voy a susurrarte algo y no vas a olvidarlo.
-E|No te rías, lo digo en serio.
-E|Me encanta que seas tan fácil de atrapar.
-E|Bajita la voz, que esto es solo nuestro.
-E|¿Ves? No era tan difícil dejarte llevar.
-E|Tienes cara de que quieres quedarte.
-E|No me hagas repetirlo, obediente.
-E|Aquí a solas te ves mucho mejor.
-E|Me gusta tenerte tan cerquita.
-E|Tranquilo, yo llevo el ritmo.
-E|Si te portas bien, te dejo quedarte.
-E|No te me escapes, apenas te estoy disfrutando.
+L|Ven conmigo, conozco un rincón donde nadie nos molesta.
+L|No te sueltes, que si te me escapas, me voy a enojar.
+L|Tranquilo, solo quiero tenerte cerca un ratito.
+L|Sígueme y no hagas preguntas, ¿va?
+L|Ese rincón es perfecto para hablar sin testigos.
+L|Te tomé de la mano, ahora no hay vuelta atrás.
+L|No mires atrás, la diversión apenas empieza.
+L|Aquí nadie nos ve, así que relájate tantito.
+L|Te llevo a mi lugar favorito, es un secreto.
+L|Obedece y te prometo que te va a gustar.
+L|Deja de resistirte, que se te nota la sonrisa.
+L|Ven, que quiero verte de cerca sin público.
+L|Ese rincón está oscurito, perfecto para ti y para mí.
+L|No me sueltes la mano, me gusta mandar.
+L|Ya te tengo, y ahora hacemos lo que yo diga.
+L|Camina derecho, no quiero que te pierdas.
+L|Te voy a llevar a un lugar donde nadie interrumpa.
+L|Qué obediente te pones cuando te llevo de la mano.
+L|Este rinconcito es nuestro, nadie más entra.
+E|Así me gusta, sin prisa y bien cerquita de mí.
+E|No te pongas rojo, que se te ve más lindo.
+E|Sabes que me encanta cuando te pones nervioso.
+E|Aquí nadie nos escucha, así que dime la verdad.
+E|Me gusta tenerte acorralado contra la pared.
+E|Cálmate, que apenas vamos a empezar a jugar.
+E|Te ves tan tierno cuando no sabes qué hacer.
+E|No te vayas, que esto se pone interesante.
+E|Te susurro al oído porque me da la gana.
+E|Qué calladito te pones, ¿te gusta mi voz?
+E|Si te portas bien, capaz que te dejo respirar.
+E|Me encanta cómo tiemblas cuando me acerco.
+E|No mires a otro lado, mírame a mí.
+E|Sé que quieres huir, pero te estás quedando.
+E|Así, quietecito, que yo llevo el ritmo.
+E|Te tengo justo donde te quería, solito.
+E|No me hagas esperar, que me pongo celosa.
+E|Qué bien se siente tenerte tan cerquita.
+E|Te va a encantar lo que sigue, te lo prometo.
+E|Ahora dime, ¿de quién eres cuando estás solito?
