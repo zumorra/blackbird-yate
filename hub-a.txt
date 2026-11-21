@@ -1,60 +1,60 @@
 A|Te tengo. Corriste bonito, pero no lo suficiente.
-A|Órale, mi amor. Hasta aquí llegaste.
-A|Mira nada más, ya te agarré.
-A|No corras más, precioso. Ya es tarde.
-A|Te dije que iba a atraparte, ¿verdad?
-A|Qué cara de susto. Me encanta.
-A|Ya estás en mis manos, bombón.
-A|Se acabó la persecución. Ahora es mi turno.
-A|Tú y yo vamos a jugar otro ratito.
-A|Qué rápido caíste. Ni te esforzaste.
-A|No te vayas, apenas empieza lo bueno.
-A|Te encontré. Y no pienso soltarte.
-A|Corriste como conejito. Ya te tengo.
-A|Mírate, todo agitado. Qué lindo.
-A|Aquí mando yo, así que tranquilo.
-A|No hay salida, cielo. Ya te alcancé.
-A|Te quedó grande escapar de mí.
-A|Ahora sí, precioso. Te agarré.
-A|Qué berrinche. Me gusta cuando corres.
-A|Ya te cargó el payaso, mi vida.
-F|Shh, deja de moverte, nadie va a venir a salvarte.
-F|Quieto ahí. Entre más te muevas, más te aprieto.
-F|No te me escurras, mi amor. Me gusta así.
-F|Ay, qué luchador. Pero no te vas a ir.
-F|Sigue forcejeando. Me divierte verte.
-F|No, mi amor. Esa puerta no se abre.
-F|Más te mueves, más me pego a ti.
-F|Tranquilo, no te voy a soltar todavía.
-F|¿Ya te cansaste? Qué rápido.
-F|Ese empujoncito no me hace nada.
-F|No grites, nadie te va a oír.
-F|Te tengo bien agarrado. Ni lo intentes.
-F|Qué bonito se siente que te resistas.
-F|No me sueltes la mirada, precioso.
-F|Otra vez. A ver si ahora sí te zafas.
-F|Ya deja de pelear, me estás poniendo de buen humor.
-F|Me gusta cuando te pones así de nervioso.
-F|No hay trato. Te quedas conmigo.
-F|Sigue, sigue. Que esto apenas va empezando.
-F|Quédate quieto. Yo decido cuándo suelto.
-P|Quédate ahí un ratito, te lo ganaste.
-P|Mírate, tirado en el piso. Qué belleza.
-P|Te di todo lo que aguantabas, ¿no?
-P|Ahora sí, respira. Te hace bien.
-P|No te levantes. Aún no te dejo.
-P|Te gustó más de lo que quieres admitir.
-P|Qué cara de agotado. Me encanta.
-P|Buen chico. Así me gusta verte.
-P|Descansa, precioso. Te moviste rico.
-P|No me mires así. Tú te lo buscaste.
-P|Yo también me cansé, pero valió la pena.
-P|Quédate en el piso. Te lo ordeno.
-P|Se te olvidó correr más rápido, ¿eh?
-P|Mañana me lo cuentas. Ahora duerme.
-P|Te dejé sin fuerzas. Misión cumplida.
-P|Qué escándalo el tuyo. Pero qué rico.
-P|No te acostumbres. Esto fue solo el inicio.
-P|Ahí te quedas, lindo. Me divertí mucho.
-P|Te voy a extrañar. Hasta la próxima.
-P|Ya puedes irte. Cuando te recuperes.
+A|Se acabó la carrera, lindo. Ahora me toca a mí.
+A|Te atrapé. Y no pienso soltarte tan pronto.
+A|Mmm, qué rico sudas. Me gusta cuando te esfuerzas.
+A|Ya está, campeón. El premio soy yo.
+A|Corriste como si pudieras escapar. Qué tierno.
+A|Te tengo contra la pared. Y así te quiero.
+A|No corras más, ya te alcancé. Ahora obedece.
+A|Qué fácil fue atraparte. Casi me aburro.
+A|Aquí termina tu escape y empieza mi juego.
+A|Te agarré por la cintura. Ni lo intentes.
+A|Llegaste justo donde quería. Bien hecho.
+A|Ya te tengo. Y ahora, ¿qué vas a hacer, eh?
+A|Ese jadeo te delata. Te gustó que te cazara.
+A|Atrapado. Y con esa carita de sorpresa.
+A|No hay salida, precioso. Solo yo.
+A|Te alcancé. Me debes una disculpa por correr.
+A|Quédate quieto. Ya gané y lo sabes.
+A|Te tengo justo donde te quería. Sonríe.
+A|Fin de la persecución. Ahora empieza lo bueno.
+F|Shh, deja de moverte. Nadie viene a salvarte.
+F|Más te mueves, más me gusta tenerte así.
+F|Ay, qué lindo forcejeo. Sigue, me entretiene.
+F|No te suelto. Ya es tarde para arrepentirse.
+F|Tranquilo, corazón. Solo estoy jugando contigo.
+F|Uy, qué fuerza. Pero yo tengo más maña.
+F|Deja de resistirte. Se te ve mejor rendido.
+F|Así, pegadito. No hay a dónde ir.
+F|Me gusta cuando te pones difícil. Insiste.
+F|No, no, no. Esa puerta no se abre.
+F|Sigue luchando. Me encanta verte intentar.
+F|Quietecito. Me debes obediencia por hoy.
+F|Te tengo bien agarrado. Ni sueñes con irte.
+F|Mmm, ese pulso acelerado. Qué rico.
+F|Resígnate, lindo. Esta noche soy tu dueña.
+F|No me hagas apretarte más. Aunque quiero.
+F|Ya sé que puedes soltarte. Pero no quieres.
+F|Ánimo, que apenas empiezo a divertirme.
+F|Ese gesto de enojo me mata de risa.
+F|Quédate cerquita. No es tan difícil, ¿verdad?
+P|Quédate ahí un ratito. Te lo ganaste.
+P|Buen chico. Ahora descansa, te lo mereces.
+P|Te dejé tirado, pero con cariño.
+P|Eso fue divertido. Repetimos cuando quieras.
+P|Ahí te quedas, agotado y sonriendo.
+P|Mira cómo quedaste. Y aún así me buscas.
+P|Descansa, campeón. Mañana te vuelvo a cazar.
+P|Te cansé bien. Pero te portaste de diez.
+P|Quédate en el piso. Se te ve muy cómodo.
+P|Ya terminé contigo. Por ahora.
+P|Buen intento. Casi me haces correr de más.
+P|Ahí tirado, jadeando. Qué cuadro tan bonito.
+P|Te dejo ir. Pero no muy lejos, ¿eh?
+P|Eso es todo por hoy. No me extrañes mucho.
+P|Quédate ahí. Yo me quedo mirándote un rato.
+P|Agotado y todo, sigues siendo mi favorito.
+P|Se acabó el juego. Hasta la próxima, lindo.
+P|Descansa. Te lo trabajaste bien.
+P|Me voy, pero te dejo pensando en mí.
+P|Buen chico. Nos vemos en la próxima ronda.

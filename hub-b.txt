@@ -1,40 +1,40 @@
-L|Ven conmigo, que aquí hay demasiada gente.
-L|No mires atrás, ya te tengo.
-L|Camina, no te me escapes ahora.
-L|Te llevo a un rincón donde nadie nos vea.
-L|Dame la mano y no hagas preguntas.
-L|Sígueme, que esto se pone bueno.
-L|Tú y yo tenemos que hablar a solas.
-L|Ven, que quiero decirte algo al oído.
-L|No te sueltes, que te pierdes.
-L|Por aquí, sin miedo, que yo te guío.
-L|Te atrapé, ahora vienes conmigo.
-L|Camina, que la noche es larga.
-L|Un rincón, tú y yo, nadie más.
-L|Deja de resistirte, se te ve tierno.
-L|Ven, que te guardo un secreto.
-L|Sígueme y te prometo que te gusta.
-L|Ese rincón me está llamando.
-L|No te me escondas, ya te vi.
-L|Vamos, que aquí hay mucha gente curiosa.
-L|Toma mi mano y déjate llevar.
-E|Así me gusta, sin prisa.
-E|¿Ves? Aquí nadie nos molesta.
-E|No te pongas nervioso, me gustas así.
-E|Acércate, que no muerdo... mucho.
-E|Me encanta cuando te sonrojas.
-E|Tranquilo, solo quiero verte de cerca.
-E|Tú y yo vamos a llevarnos bien.
-E|No mires a otro lado, mírame a mí.
-E|Sabía que ibas a caer.
-E|¿Y ahora quién te rescata?
-E|Me gusta tenerte contra la pared.
-E|Shhh, no digas nada, solo siente.
-E|Eres mío por esta noche.
-E|Te imaginé así, calladito y obediente.
-E|No te vayas, apenas empiezo.
-E|Confiesa, esto te está gustando.
-E|Tienes cara de que te gusta el peligro.
-E|Quédate quieto, que te estoy mirando.
-E|Me debes una respuesta sincera.
-E|Dime que sí y no te arrepentirás.
+L|Ven conmigo, conozco un rincón donde nadie nos va a molestar.
+L|No mires atrás, ya te tengo y no te me escapas.
+L|Tranquilo, solo quiero hablar y verte sonrojar.
+L|Sígueme, que aquí hay demasiada gente para lo que quiero.
+L|Toma mi mano, no te voy a morder todavía.
+L|Ese rincón está libre y tú vienes conmigo.
+L|No te me hagas el difícil, que ya vi cómo me mirabas.
+L|Vamos, que la espera te está poniendo nervioso.
+L|Agárrate bien, no quiero que te pierdas antes de tiempo.
+L|Por aquí, que lo bueno no se comparte con curiosos.
+L|Te llevo a un lugar donde vas a olvidar tu nombre.
+L|Caminito, que a solas me caes mucho mejor.
+L|No sueltes mi mano, o te busco y te encuentro.
+L|Ese rincón tiene tu nombre escrito, ¿lo ves?
+L|Ven, que ya me cansé de hacerte señas desde lejos.
+L|Tú y yo tenemos una conversación pendiente allá atrás.
+L|No pongas esa cara, solo te voy a quitar el aliento.
+L|Sígueme despacio, que quiero sentir que me sigues.
+L|Al rincón, mi amor, que el público ya no me divierte.
+L|Toma, te llevo yo, que a ti te gusta que te manden.
+E|Así me gusta, sin público y sin excusas.
+E|¿Ves qué fácil fue venir conmigo?
+E|Ahora dime por qué me mirabas desde allá.
+E|No te pongas rojo, que aún no empiezo.
+E|Aquí nadie nos ve, así que suéltate un poco.
+E|Tienes cara de que ya estás pensando en portarte mal.
+E|Me gusta cómo te pones nervioso cuando me acerco.
+E|Respira, que todavía no te he dicho lo mejor.
+E|No apartes la mirada, quiero verte bien.
+E|Qué callado te pones cuando estás solito conmigo.
+E|¿Te tiembla la mano o soy yo la que te pone así?
+E|Yo mando aquí, y tú obedeces bien rico.
+E|No hace falta que digas nada, tu cara ya me contó todo.
+E|Si te portas bien, te dejo quedarte un rato más.
+E|Ven más cerca, que lo que sigue es puro secreto.
+E|No te rías, que en serio me gustas cuando te da pena.
+E|Aquí a solas eres mío, y lo sabes.
+E|Te voy a susurrar algo y luego me lo agradeces.
+E|Qué bonito se te ve el miedo, pero del bueno.
+E|Ya te atrapé, ¿y ahora quién te salva de mí?
