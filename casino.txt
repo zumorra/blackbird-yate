@@ -1,44 +1,45 @@
-L|Bienvenido al casino, cielo. Soy Lucy, la diablita de la charola.
-L|Las bebidas son de mentira, pero la atención es de verdad.
-L|Empiezas con mil fichas. Yo ya perdí las mías, no te apures.
-L|¿Le entras al blackjack, guapo? La mesa dos anda calientita.
-L|Te ves perdido. ¿Quieres que te explique cómo va la ruleta?
-L|Traigo copas para todos, menos para el de la mesa cinco.
-L|Si ganas cien fichas cada veinte minutos, invítame una bebida.
-L|La sala VIP está arriba. Se sube con fichas y con estilo.
-L|¿Una copa de champán falso? Sabe igual que el caro, casi.
-L|Las tragaperras están bien, pero no les cuentes tus secretos.
-L|El de los dados de la esquina dice que va ganando. Ajá.
-L|Te guardé una mesa cerca de la barra. Para vigilarte.
-L|¿Póker de video? Es como el póker, pero sin caras enojadas.
-L|No te preocupes por las fichas. Aquí se reciclan solitas.
-L|Me gusta tu suerte. Lástima que no se pueda embotellar.
-L|¿Otra copa? La casa invita y yo cobro en chismes.
-L|La ruleta gira y gira. Tú nomás no le apuestes al cero.
-L|Hay mil fichas de inicio. Yo las gasté en puras propinas.
-L|El blackjack es fácil. Nada más no te pases de veintiuno.
-L|¿Quieres que te presente a la casa? Es broma, ya te adopté.
-L|Arriba está la VIP. Yo no entro, pero sé quién sí.
-E|Siéntate donde quieras. La gata rubia del vestido negro ya te vio.
-E|¿Qué te sirvo? Todo es de mentira, así que no te emociones.
+L|¿Una copa? Invita la casa, como siempre.
+L|Pasa, guapo, que aquí no muerde nadie... bueno, yo a veces.
+L|Traigo de todo en la charola, escoge sin pena.
+L|La mesa de blackjack está caliente, si te animas.
+L|Mil fichas de arranque y cada veinte minutos te caen cien.
+L|¿Subes a la VIP o te quedas con los mortales?
+L|La ruleta lleva tres rojos seguidos, por si te sirve.
+L|Si pierdes, no llores, que las bebidas son de mentira.
+L|¿Tragaperras? Esas sí se comen las fichas sin avisar.
+L|En el póker de video nadie te ve la cara; aprovecha.
+L|Te ves seco, ¿te traigo algo o nomás vienes a mirar?
+L|Los dados de la mesa tres están de suerte esta noche.
+L|Con este uniforme vuelo entre mesas, ni me tropiezo.
+L|El de la barra dice que tú le debes una propina.
+L|¿Te enseño la sala VIP? Arriba hay mejor vista.
+L|Cuidado con el de la esquina, hace trampa en el póker.
+L|¿Otra copa? Total, aquí nadie se emborracha de verdad.
+L|La casa gana poquito, pero tú ganas más seguido.
+L|Si te sientas en la mesa dos, te paso los chismes.
+L|Traigo una bebida que brilla, pero no preguntes qué es.
+L|Ese de allá presume sus fichas, pero las ganó dormido.
+L|¿Me das tu asiento? Es broma, pero sí me quedo.
+L|Anda, pide algo, que la charola no se va a vaciar sola.
 E|Agitado, no revuelto. Bueno, hoy revuelto.
-E|El de la punta dice que viene por chismes. Yo no sé nada.
-E|Las copas son gratis. La limpieza de la barra también, pero no abuses.
-E|Empezaste con mil fichas. Yo empecé con mil dudas.
-E|La mesa de póker de video está ocupada. Por un tipo triste.
-E|Arriba está la VIP. Dicen que el aire es más caro.
-E|¿Otra ronda? Las bebidas falsas no dan cruda, es su ventaja.
-E|La ruleta lleva media hora dando vueltas. Igual que mi turno.
-E|Cien fichas cada veinte minutos. Es lo más generoso del barco.
-E|El de las tragaperras acaba de ganar. No le digas a nadie.
-E|¿Blackjack? La casa gana, pero tú puedes fingir que no.
-E|Los dados de la mesa tres están cargados de ilusiones.
-E|Me sé todos los chismes. Hasta los que todavía no pasan.
-E|Tu copa está vacía. Técnicamente nunca estuvo llena.
-E|La VIP tiene mejor vista. Y mejores secretos, según yo.
-E|No me cuentes tu racha. Luego me la creo.
-E|¿Quieres algo dulce? Todo es falso, pero el azúcar no.
-E|El de la mesa cinco lleva tres horas perdiendo. Qué constancia.
-E|Las fichas no se acaban, se transforman. Como los chismes.
-E|Si subes a la VIP, saluda de mi parte. O no.
-E|Última ronda. Después cierro la barra y me voy a chismear.
+E|Siéntate, que la barra no muerde y yo tampoco.
+E|Las bebidas son de mentira, así que pide la cara.
+E|La ruleta no perdona, pero el trago sí.
+E|¿Mil fichas? Se van rapidito si te sientas a las tragaperras.
+E|Cada veinte minutos, cien fichas; la casa es generosa.
+E|El de la mesa cuatro lleva una racha que ya me aburre.
+E|Arriba está la VIP, pero abajo se oyen mejores chismes.
+E|¿Póker de video? Ahí nadie te ve llorar.
+E|Limpio vasos y escucho todo; no preguntes qué sé.
+E|El blackjack de la mesa uno paga y también cobra.
+E|No te enamores de la tragaperras, es pura ilusión.
+E|¿Te sirvo algo fuerte o algo que sepa a gloria?
+E|El capitán debe tres rondas y nadie se las cobra.
+E|Los dados de la mesa dos tienen memoria, te lo juro.
+E|Si pierdes, aquí tienes hombro y vaso limpio.
+E|Ese de la esquina pide lo mismo y nunca paga.
+E|La coctelera suena mejor cuando hay propina.
+E|¿Sabías que la VIP tiene su propia barra? Puro lujo.
+E|No me cuentes tu suerte, cuéntame el chisme.
+E|Las tragaperras de allá atrás pagan en suspiros.
+E|¿Otra ronda? Va, pero esta la firmas tú.
