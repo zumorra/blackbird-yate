@@ -1,40 +1,40 @@
-L|Ven conmigo, conozco un rincón donde nadie nos va a molestar.
-L|Toma mi mano y no me sueltes, no quiero perderte.
-L|Por aquí, que esto se pone interesante.
-L|Sígueme, pero camina pegadito a mí.
-L|No mires atrás, ya no hay vuelta.
-L|Ese rincón está libre y yo tengo planes.
-L|Agarra mi mano, te voy a llevar lejos de tanta gente.
-L|Camina despacio, quiero sentir que me sigues.
-L|Te atrapé, ahora vente conmigo sin chistar.
-L|Por aquí, que tengo algo que mostrarte a solas.
-L|No te me escapes ahora, ya te tengo de la mano.
-L|Sígueme calladito, que no quiero testigos.
-L|Ese rincón se ve perfecto para nosotros dos.
-L|Ven, que la fiesta se disfruta mejor aparte.
-L|Dame la mano y déjate llevar, confía en mí.
-L|Rápido, antes de que alguien nos vea irnos.
-L|Te llevo a un lugar donde solo te voy a oír a ti.
-L|No sueltes mi mano, apenas vamos empezando.
-L|Aquí ya no hay nadie, sigue caminando.
-L|Ven conmigo, que me debes una conversación privada.
-E|Así me gusta, sin prisa y sin testigos.
-E|Ya solos, ¿qué vas a hacer ahora?
-E|No te pongas nervioso, apenas empiezo.
-E|Mírame bien, que aquí nadie nos interrumpe.
-E|Sabía que ibas a seguirme, siempre lo hacen.
-E|Respira, que esto apenas se pone bueno.
-E|Aquí nadie te escucha, así que dime la verdad.
-E|Me gusta cómo te ves cuando no puedes escapar.
-E|No mires a otro lado, yo estoy hablando contigo.
-E|Te tengo justo donde quería, qué casualidad.
-E|Acércate más, que no muerdo... casi nunca.
-E|Se te nota que estás disfrutando esto.
-E|Cierra los ojos un segundo y escúchame.
-E|No hay prisa, tenemos todo el rincón para nosotros.
-E|Me encanta cuando te pones así de calladito.
-E|Ya que estamos solos, cuéntame tus secretos.
-E|No te vayas a asustar, todo es parte del juego.
-E|Aquí mando yo, y a ti te gusta, admítelo.
-E|Quédate quietecito, que apenas te estoy mirando.
-E|Esto se queda entre tú y yo, ¿de acuerdo?
+L|Ven conmigo, no mires atrás.
+L|Ese rincón es nuestro, nadie nos va a ver.
+L|Dame la mano y no me hagas esperar.
+L|Te agarré, corazón, ahora sí no te suelto.
+L|Camina derecho y no te me escapes.
+L|Aquí se acaba la persecución, ¿eh?
+L|Quietecito, que este rincón es mi territorio.
+L|Mírame así otra vez y no respondo.
+L|Te traje hasta acá porque me interesas.
+L|No te pongas nervioso, solo quiero hablar.
+L|Ya estás solito conmigo, ¿qué vas a hacer?
+L|Sígueme y te prometo que vale la pena.
+L|Ese lunar me distrae, no es mi culpa.
+L|No te rías, que me dan ganas de quedarme.
+L|Aquí mando yo, pero tú decides quedarte.
+L|Tan fácil que fue atraparte, me encantó.
+L|Ven, siéntate cerca y no hagas berrinche.
+L|Me gusta cuando te pones colorado.
+L|No mires la salida, mírame a mí.
+L|Ya caíste, y ahora me toca a mí jugar.
+E|Así me gusta, sin prisa y bien cerquita.
+E|No te asustes, solo voy a jugar contigo.
+E|Me encanta que te cueste disimular.
+E|Baja la voz, que esto es solo nuestro.
+E|Si te portas bien, te dejo quedarte.
+E|Tienes una cara de no saber qué hacer.
+E|No te muevas, me gusta tenerte aquí.
+E|Te late fuerte el corazón, ¿verdad?
+E|No te voy a morder, todavía.
+E|Me gustas más cuando te pones serio.
+E|Cierra los ojos y escúchame tantito.
+E|No me mires así, me haces mala.
+E|Quédate quieto y deja que te admire.
+E|Se te nota que quieres, aunque no digas.
+E|Tranquilo, aquí nadie nos interrumpe.
+E|Me encanta ganar, pero contigo es distinto.
+E|No te me acerques tanto, me tientas.
+E|Dime que sí con esa carita de susto.
+E|Te tengo justo donde quería, mi amor.
+E|Ahora sí, solito conmigo, ¿me aguantas?
