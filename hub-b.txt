@@ -1,40 +1,39 @@
-L|Ven conmigo, no mires atrás.
-L|Ese rincón es nuestro, nadie nos va a ver.
-L|Dame la mano y no me hagas esperar.
-L|Te agarré, corazón, ahora sí no te suelto.
-L|Camina derecho y no te me escapes.
-L|Aquí se acaba la persecución, ¿eh?
-L|Quietecito, que este rincón es mi territorio.
-L|Mírame así otra vez y no respondo.
-L|Te traje hasta acá porque me interesas.
-L|No te pongas nervioso, solo quiero hablar.
-L|Ya estás solito conmigo, ¿qué vas a hacer?
-L|Sígueme y te prometo que vale la pena.
-L|Ese lunar me distrae, no es mi culpa.
-L|No te rías, que me dan ganas de quedarme.
-L|Aquí mando yo, pero tú decides quedarte.
-L|Tan fácil que fue atraparte, me encantó.
-L|Ven, siéntate cerca y no hagas berrinche.
-L|Me gusta cuando te pones colorado.
-L|No mires la salida, mírame a mí.
-L|Ya caíste, y ahora me toca a mí jugar.
-E|Así me gusta, sin prisa y bien cerquita.
-E|No te asustes, solo voy a jugar contigo.
-E|Me encanta que te cueste disimular.
-E|Baja la voz, que esto es solo nuestro.
-E|Si te portas bien, te dejo quedarte.
-E|Tienes una cara de no saber qué hacer.
-E|No te muevas, me gusta tenerte aquí.
-E|Te late fuerte el corazón, ¿verdad?
-E|No te voy a morder, todavía.
-E|Me gustas más cuando te pones serio.
-E|Cierra los ojos y escúchame tantito.
-E|No me mires así, me haces mala.
-E|Quédate quieto y deja que te admire.
-E|Se te nota que quieres, aunque no digas.
-E|Tranquilo, aquí nadie nos interrumpe.
-E|Me encanta ganar, pero contigo es distinto.
-E|No te me acerques tanto, me tientas.
-E|Dime que sí con esa carita de susto.
-E|Te tengo justo donde quería, mi amor.
-E|Ahora sí, solito conmigo, ¿me aguantas?
+L|Ven conmigo, conozco un rincón donde nadie nos molesta.
+L|Toma mi mano, que el mejor lugar está escondido.
+L|Sígueme calladito, no quiero que nos descubran.
+L|Deja de resistir y camina conmigo, ¿sí?
+L|Te llevo de la mano; no sueltes, o te pierdes.
+L|Ese rincón es nuestro, nadie más entra.
+L|No mires atrás, ya elegiste venir conmigo.
+L|Caminito, que al llegar te suelto… o no.
+L|Ven, que la fiesta se pone mejor allá atrás.
+L|Tu manita tiembla, ¿nervios o emoción?
+L|Te secuestro un ratito, pero bien consentido.
+L|Por aquí, que quiero verte de cerquita.
+L|No te me escapes, que me gusta la cacería.
+L|Ya te atrapé, ahora caminamos juntos.
+L|Ese pasillo está solo, perfecto para nosotros.
+L|Vas muy callado, ¿ya te arrepentiste?
+L|Sujétame fuerte, que hay mucha gente.
+L|Ven, que quiero hablarte sin que nadie opine.
+L|Poquito a poco, que el rincón no se mueve.
+E|Así me gusta, sin prisa y sin testigos.
+E|Ahora sí, nadie nos escucha.
+E|¿Ves? Valió la pena venir conmigo.
+E|Te tengo donde quería, ¿y ahora qué?
+E|No te pongas rojo, aún no empiezo.
+E|Me encanta cuando te pones nervioso.
+E|Aquí mando yo, ¿queda claro, lindo?
+E|Te acorralé, y no pienso soltarte.
+E|Habla bajito, que esto es entre tú y yo.
+E|Me gusta cómo me miras cuando estás así.
+E|¿Te late quedarte un rato a solas conmigo?
+E|No corras, que la parte buena apenas empieza.
+E|Estás temblando, ¿te doy permiso de huir?
+E|Quédate quietecito y déjame admirarte.
+E|Eres mío por un ratito, ¿te molesta?
+E|Aquí no hay reglas, solo tú y yo.
+E|Me tienes en la palma, pero yo a ti también.
+E|Cierra los ojos, que quiero susurrarte algo.
+E|Te advertí que te iba a atrapar, ¿no?
+E|Quédate, que esto se pone interesante.

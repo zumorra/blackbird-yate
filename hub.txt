@@ -1,100 +1,99 @@
-A|Te tengo. Corriste bonito, pero ya eres mío.
-A|Alto ahí, campeón. La cacería terminó.
-A|Te atrapé. Y ahora sí, no te me escapas.
-A|Mira nomás, tanto correr para caer rendido.
-A|Te tengo contra la pared. ¿Y ahora quién corre?
-A|Se acabó la carrera. Ahora empieza mi juego.
-A|Caíste redondito. Qué pena, ¿no?
-A|Te advertí que no corrieras tan lejos.
-A|Aquí termina tu escape y empieza mi diversión.
-A|Te agarré por la cintura. Ya no hay vuelta atrás.
-A|Buen intento, pero yo siempre gano.
-A|Te tengo. Y te ves mejor así, atrapado.
-A|No corras más, mi amor. Ya te alcancé.
-A|Ese jadeo te queda precioso. Te atrapé.
-A|Te acorralé. Ahora dime, ¿quién manda?
-A|Llegaste hasta aquí. Lástima que yo llegué antes.
-A|Ya te tengo. Y pienso disfrutarlo despacito.
-A|Corriste como liebre, pero caíste como tonto.
-A|Te atrapé en mi trampa. Qué carita de sorpresa.
-A|Se terminó tu libertad. Bienvenido a mi juego.
-F|Shh, deja de moverte. Nadie viene a salvarte.
-F|Más te mueves, más me gusta tenerte así.
-F|No te sueltes, que se pone divertido.
-F|Quietecito. Esa pataleta no te va a servir.
-F|Ay, qué lindo forcejeas. Pero no te suelto.
-F|Sigue luchando. Me encanta cuando te resistes.
+A|Te tengo. Corriste bonito, pero no lo suficiente.
+A|Ya te alcancé. No hagas drama, fue fácil.
+A|Mmm, qué rico te ves cuando pierdes.
+A|Te di ventaja y aun así caíste.
+A|No corras más, ya es tarde y eres mío.
+A|Sabía que ibas a terminar en mis manos.
+A|Tranquilo, no muerdo... todavía.
+A|Ese jadeo te delata, te gustó que te atrapara.
+A|Te atrapé en tres segundos, ni te esforzaste.
+A|Aquí termina tu escapada, muñeco.
+A|Qué carita de derrota, se te ve preciosa.
+A|Te tengo acorralado, ni lo intentes.
+A|Corriste como conejito, y mira dónde acabaste.
+A|Ahora sí, no hay salida para ti.
+A|Me encanta cuando te rindes tan fácil.
+A|Ya está, atrapado y sin excusas.
+A|Eres mío desde que entraste a mi terreno.
+A|No te sueltes tan rápido, apenas empezamos.
+A|Qué lindo se te ve el miedo, me pone de buenas.
+A|Te agarré. Y no pienso dejarte ir tan pronto.
+F|Shh, deja de moverte, nadie va a venir a salvarte.
+F|Sigue forcejeando, me gusta verte intentarlo.
+F|Quieto. Entre más te mueves, más me divierto.
+F|Ay, qué tierno, crees que puedes soltarte.
 F|No, no, no. Aquí te quedas conmigo.
-F|Tranquilo, corazón. Yo mando en esta ronda.
-F|Huyes bonito, pero obedeces mejor.
-F|Deja de hacerte el fuerte. Ya perdiste.
-F|Te tengo bien agarrado. Ni lo intentes.
-F|Quédate quieto. O te aprieto más rico.
-F|Me gusta que te resistas. Se siente más rico.
-F|No hay salida, precioso. Ríndete con estilo.
-F|Sigue moviéndote. Me das más ganas de que te quedes.
-F|Tus intentos me divierten. Y no pienso soltarte.
-F|Ya basta de huir. Ahora me toca a mí.
-F|Quieto ahí. Esa boquita no me convence.
-F|Te retengo hasta que aprendas a portarte.
-F|No te suelto. Estás justo donde te quería.
-P|Quédate ahí, tirado. Te lo ganaste.
-P|Buen chico. Descansa, que mañana te vuelvo a cazar.
-P|Ahí te dejo, agotado y todo lindo.
-P|Se acabó por hoy. No te me vayas a morir.
-P|Respira, campeón. La próxima correrás más.
-P|Te dejé en el piso. Así me gusta verte.
-P|Ya estuvo. Ahora duerme, que yo sigo aquí.
-P|No te levantes todavía. Te ves precioso rendido.
-P|Descansa, mi amor. Mañana te atrapo otra vez.
-P|Te quedaste sin fuerzas. Qué delicia.
-P|Ahí te quedas. La próxima no seré tan buena.
-P|Ya terminó. Pero no te acostumbres a la libertad.
-P|Túmbate un rato. Te lo mereces por correr tanto.
-P|Mírate, todo sudado y sin escape. Qué bello.
-P|Ya fue. Ahora descansa, que te estaré mirando.
-P|Te dejo vivo. La revancha va a doler bonito.
-P|Quédate en el piso. Es mi parte favorita.
-P|Se terminó el juego. Y tú quedaste hecho polvo.
-P|Descansa, precioso. La próxima te atrapo más rápido.
-P|Ahí te quedas, agotado. Yo ya me divertí.
-L|Ven conmigo, no mires atrás.
-L|Ese rincón es nuestro, nadie nos va a ver.
-L|Dame la mano y no me hagas esperar.
-L|Te agarré, corazón, ahora sí no te suelto.
-L|Camina derecho y no te me escapes.
-L|Aquí se acaba la persecución, ¿eh?
-L|Quietecito, que este rincón es mi territorio.
-L|Mírame así otra vez y no respondo.
-L|Te traje hasta acá porque me interesas.
-L|No te pongas nervioso, solo quiero hablar.
-L|Ya estás solito conmigo, ¿qué vas a hacer?
-L|Sígueme y te prometo que vale la pena.
-L|Ese lunar me distrae, no es mi culpa.
-L|No te rías, que me dan ganas de quedarme.
-L|Aquí mando yo, pero tú decides quedarte.
-L|Tan fácil que fue atraparte, me encantó.
-L|Ven, siéntate cerca y no hagas berrinche.
-L|Me gusta cuando te pones colorado.
-L|No mires la salida, mírame a mí.
-L|Ya caíste, y ahora me toca a mí jugar.
-E|Así me gusta, sin prisa y bien cerquita.
-E|No te asustes, solo voy a jugar contigo.
-E|Me encanta que te cueste disimular.
-E|Baja la voz, que esto es solo nuestro.
-E|Si te portas bien, te dejo quedarte.
-E|Tienes una cara de no saber qué hacer.
-E|No te muevas, me gusta tenerte aquí.
-E|Te late fuerte el corazón, ¿verdad?
-E|No te voy a morder, todavía.
-E|Me gustas más cuando te pones serio.
-E|Cierra los ojos y escúchame tantito.
-E|No me mires así, me haces mala.
-E|Quédate quieto y deja que te admire.
-E|Se te nota que quieres, aunque no digas.
-E|Tranquilo, aquí nadie nos interrumpe.
-E|Me encanta ganar, pero contigo es distinto.
-E|No te me acerques tanto, me tientas.
-E|Dime que sí con esa carita de susto.
-E|Te tengo justo donde quería, mi amor.
-E|Ahora sí, solito conmigo, ¿me aguantas?
+F|Hazte el fuerte, igual no te vas a ir.
+F|Me gusta cuando te resistes, se siente mejor.
+F|Deja de luchar, ya perdiste hace rato.
+F|Tus manos no sirven de nada contra mí.
+F|Sigue, sigue, me encanta esta parte.
+F|No te suelto, así que ni lo sueñes.
+F|Tranquilo, corazón, no es para tanto.
+F|Quédate quietecito y todo será más fácil.
+F|Uy, qué nervios, y yo aquí bien tranquila.
+F|Entre más te retuerces, más te aprieto.
+F|Nadie te escucha, solo yo y tú.
+F|Ya, mi amor, ríndete de una vez.
+F|Ese empujoncito no me movió ni tantito.
+F|No me obligues a ponerme seria contigo.
+F|Te tengo bien agarrado, ni lo intentes.
+P|Quédate ahí un ratito, te lo ganaste.
+P|Descansa, que mañana te vuelvo a corretear.
+P|Ahí tirado te ves muy bien, no te muevas.
+P|Buen chico, así me gusta verte.
+P|Ya terminó, pero no te acostumbres.
+P|Respira, que apenas fue el calentamiento.
+P|Te dejé vivir, siéntete afortunado.
+P|No te levantes tan rápido, se te ve cansado.
+P|Qué lindo quedaste, todo rendido.
+P|Mañana te busco otra vez, ya lo sabes.
+P|Ahí te quedas, yo tengo cosas que hacer.
+P|Fue divertido, no lo niegues.
+P|Recoge tu orgullo del piso cuando puedas.
+P|Quédate tirado, te lo mereces por lento.
+P|Nos vemos pronto, no te me escapes.
+P|Descansa, campeón, la próxima será peor.
+P|Ya me voy, pero me llevo tu carita.
+P|No te muevas de ahí hasta que te recuperes.
+P|Buen intento, pero sigues siendo mío.
+P|Ahí te dejo, que se te quite lo presumido.
+L|Ven conmigo, conozco un rincón donde nadie nos molesta.
+L|Toma mi mano, que el mejor lugar está escondido.
+L|Sígueme calladito, no quiero que nos descubran.
+L|Deja de resistir y camina conmigo, ¿sí?
+L|Te llevo de la mano; no sueltes, o te pierdes.
+L|Ese rincón es nuestro, nadie más entra.
+L|No mires atrás, ya elegiste venir conmigo.
+L|Caminito, que al llegar te suelto… o no.
+L|Ven, que la fiesta se pone mejor allá atrás.
+L|Tu manita tiembla, ¿nervios o emoción?
+L|Te secuestro un ratito, pero bien consentido.
+L|Por aquí, que quiero verte de cerquita.
+L|No te me escapes, que me gusta la cacería.
+L|Ya te atrapé, ahora caminamos juntos.
+L|Ese pasillo está solo, perfecto para nosotros.
+L|Vas muy callado, ¿ya te arrepentiste?
+L|Sujétame fuerte, que hay mucha gente.
+L|Ven, que quiero hablarte sin que nadie opine.
+L|Poquito a poco, que el rincón no se mueve.
+E|Así me gusta, sin prisa y sin testigos.
+E|Ahora sí, nadie nos escucha.
+E|¿Ves? Valió la pena venir conmigo.
+E|Te tengo donde quería, ¿y ahora qué?
+E|No te pongas rojo, aún no empiezo.
+E|Me encanta cuando te pones nervioso.
+E|Aquí mando yo, ¿queda claro, lindo?
+E|Te acorralé, y no pienso soltarte.
+E|Habla bajito, que esto es entre tú y yo.
+E|Me gusta cómo me miras cuando estás así.
+E|¿Te late quedarte un rato a solas conmigo?
+E|No corras, que la parte buena apenas empieza.
+E|Estás temblando, ¿te doy permiso de huir?
+E|Quédate quietecito y déjame admirarte.
+E|Eres mío por un ratito, ¿te molesta?
+E|Aquí no hay reglas, solo tú y yo.
+E|Me tienes en la palma, pero yo a ti también.
+E|Cierra los ojos, que quiero susurrarte algo.
+E|Te advertí que te iba a atrapar, ¿no?
+E|Quédate, que esto se pone interesante.
