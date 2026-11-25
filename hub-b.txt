@@ -1,40 +1,40 @@
-L|Toma mi mano y no te sueltes, que te llevo a mi rincón.
-L|No mires atrás, mi amor, ya te tengo justo donde quería.
-L|Ven, que aquí afuera hay mucha gente y tú me distraes.
-L|Camina pegadito a mí y no hagas preguntas.
-L|Ese rincón es nuestro, nadie más se va a enterar.
-L|Te vi desde lejos y supe que te iba a atrapar.
-L|No te me aceleres, que la noche apenas empieza.
-L|Mira qué callado es este lugar, perfecto para ti y para mí.
-L|Dame la mano, que no quiero perderte entre la gente.
-L|Me gusta cómo te sonrojas cuando te agarro así.
-L|Tú y yo tenemos una conversación pendiente, ven.
-L|No te asustes, solo quiero tenerte cerquita un rato.
-L|Ese huequito está reservado para mis juguetes favoritos.
-L|Sígueme y te prometo que no te vas a arrepentir.
-L|Caminas bien bonito cuando sabes que te estoy mirando.
-L|Ven, que quiero decirte algo que no puede oír nadie.
-L|No corras, lindo, que la persecución ya terminó.
-L|Aquí se está más rico, lejos de tanto ruido.
-L|Te agarré la mano y ahora ya no hay vuelta atrás.
-L|Quédate junto a mí y deja que yo lleve el ritmo.
-E|Así me gusta, sin prisa y bien cerquita de mí.
-E|Te pones nervioso y eso a mí me encanta.
-E|Nadie te escucha aquí, así que dime la verdad.
-E|No apartes la mirada, que me gusta lo que veo.
-E|Eres todo un premio, ¿lo sabías?
-E|Tranquilo, que yo sé muy bien lo que hago.
-E|Me encanta cuando intentas disimular que me deseas.
-E|No me hagas esperar, que se me acaba la paciencia.
-E|Te tengo contra la pared y ni ganas de moverte.
-E|Qué boquita tan callada, ¿y eso?
-E|Me gusta tu carita de no saber qué hacer.
-E|Ven, acércate más, que no muerdo tan fuerte.
-E|Sabes perfecto que esto te está gustando.
-E|No te me escapes, que todavía no terminamos.
-E|Estás temblando y apenas empezamos, mi amor.
-E|Dime que sí con esa cara de inocente.
-E|Me vuelves loca y ni siquiera has hecho nada.
-E|Sé que quieres quedarte, se te nota en los ojos.
-E|Yo mando aquí, y tú obedeces bien bonito.
-E|Quédate quietecito y déjame admirarte un rato.
+L|Ven conmigo, conozco un rincón donde nadie nos molesta.
+L|No mires atrás, ya te tengo bien agarradito.
+L|Camina despacio, quiero disfrutar cada paso.
+L|Ese rincón está oscuro y me gusta para dos.
+L|No te sueltes, apenas empieza lo bueno.
+L|Sígueme calladito, que no quiero testigos.
+L|Tú y yo tenemos una conversación pendiente.
+L|No pongas esa cara, solo vamos a platicar.
+L|Ven, que ahí nadie va a interrumpirnos.
+L|Te llevo de la mano porque no confío en ti.
+L|Caminito, que llegando te suelto... o no.
+L|Ese rincón tiene tu nombre escrito.
+L|No me hagas jalarte, que se me antoja más.
+L|Tranquilo, solo quiero tenerte cerquita.
+L|Ya casi llegamos, no te me aceleres.
+L|¿Ves ese lugarcito? Es nuestro ahora.
+L|Ven, que quiero verte de cerca sin público.
+L|No te me escapes, que me gusta perseguirte.
+L|Obediente se ve bonito en ti.
+L|Ya llegamos, ahora sí, no hay quien te salve.
+E|Así me gusta, sin prisa y bien cerquita.
+E|No te pongas nervioso, apenas voy a empezar.
+E|Me encanta cuando te quedas sin palabras.
+E|¿Ves qué fácil fue traerte hasta acá?
+E|Ahora nadie nos ve, así que relájate.
+E|Te dije que ibas a caer, y caíste.
+E|No te muevas, quiero memorizar tu cara.
+E|Ese nerviosito tuyo me está encantando.
+E|Si te portas bien, te dejo quedarte un rato.
+E|Me gusta tenerte solito y a mi merced.
+E|No mires la salida, mírame a mí.
+E|¿Tienes idea de lo que provoca tu cara?
+E|Shhh, habla bajito, que esto es entre tú y yo.
+E|Me encanta que seas tan fácil de convencer.
+E|No te asustes, solo quiero jugar contigo.
+E|Aquí mandas tú... mentira, mando yo.
+E|Qué bonito se te ve cuando te sonrojas.
+E|Prometiste no resistirte, ¿o ya se te olvidó?
+E|Te tengo justo donde quería, ¿qué opinas?
+E|Ya no hay vuelta atrás, mi vida, solo juega.
