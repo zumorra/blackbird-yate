@@ -1,43 +1,3 @@
-50c88b31|Apuesta que si ganas, su avatar te pedirá permiso para mirarte durante toda la siguiente ronda.
-f4421af3|Ordena a su avatar que te diga un apodo al oído y gime cada vez que lo repita.
-465f10f1|Pide a su avatar que te haga gemir solo describiendo lo que haría después contigo.
-17e3a34c|Haz que su avatar cuente hasta diez con voz entrecortada y gime más fuerte en cada número par.
-37fcc474|Ordena a su avatar que te responda solo con jadeos mientras le describes lo que te excita.
-cc0a9489|Pide a su avatar que invente un apodo nuevo y jadea al decir si lo aceptas o lo rechazas.
-bcddc0a9|Haz que su avatar te obligue a repetir un apodo de sumisión hasta que te tiemble la voz.
-a89be127|Pide a su avatar que te ponga un apodo dominante y gime cada vez que lo use en la ronda.
-05a38a38|Ordena a su avatar que te mande callar y obedece hasta que te permita gemir otra vez.
-4e43bf46|Pide a su avatar que te haga suplicar un beso virtual y gime cuando te lo conceda.
-437a6590|Haz que su avatar te dé una orden solo con la mirada y cúmplela sin decir una palabra.
-59e30a83|Propón un rol de autoridad virtual y pide que su avatar te imponga una orden con voz de mando.
-2ebdcec0|Pide a su avatar que te entreviste como en un casting y confiesa un deseo entre jadeos.
-43c20f66|Haz que su avatar dirija una sesión de posturas y te corrija con órdenes y gemidos.
-0ed169a5|Propón un rol de espía que te interrogue en voz baja y responde con jadeos a cada pregunta.
-2d782ac3|Pide a su avatar que actúe como tu superior virtual y te obligue a pedir permiso para hablar.
-81753eb1|Propón un rol de tribunal virtual y pide que su avatar dicte una sentencia de obediencia.
-679bd484|Haz que su avatar finja leer tu mente y revele en voz alta el deseo que escondes.
-4a642d9d|Pide a su avatar que actúe como tu debilidad y te obligue a confesarla entre jadeos.
-98c9b05c|Haz que su avatar sea tu espejo virtual y repita tus gemidos después de cada orden.
-90c8b202|Pide a su avatar que narre en voz alta lo que te hace sentir y gime al escucharlo.
-061207e3|Propón un juego de persecución virtual y ordena que su avatar te acorrale sin tocarte.
-de0fa86c|Pide a su avatar que te ponga a prueba con tres órdenes y obedece gimiendo cada una.
-0af9c892|Haz que su avatar te dé una orden, la cambie a la mitad y tú obedezcas la última con un gemido.
-3982cb9d|Ordena a su avatar que te prohíba mirar sus labios virtuales y gime cuando falles.
-e08c706c|Pide a su avatar que te haga pedir permiso para acercarte y gime cuando te diga que esperes.
-825906b5|Haz que su avatar te imponga un silencio de tres segundos y gime apenas termine.
-e56d7edb|Pide a su avatar que te haga elegir entre dos órdenes y gime al decir cuál prefieres.
-47f8d481|Ordena a su avatar que te mire desde arriba y te obligue a bajar la mirada con un jadeo.
-7326b84e|Pide a su avatar que te haga suplicar que te mire y gime cuando acepte.
-de6a1544|Haz que su avatar te haga confesar cuánto te excita obedecer y responde con un jadeo.
-e8859e36|Pide a su avatar que te ponga una orden de una palabra y gime al repetirla en voz baja.
-e21cd05e|Ordena a su avatar que te haga repetir una frase de sumisión y jadea en cada pausa.
-b4fff931|Pide a su avatar que te haga merecer un apodo con un gemido por ronda y úsalo al final.
-9972740c|Haz que su avatar te haga confesar qué apodo te gustaría oír y gime cuando lo repita.
-73cdb360|Pide a su avatar que te haga suplicar un elogio y gime cuando te diga que obedeces bien.
-f1c9b9fd|Ordena a su avatar que te haga describir cómo te dominaría y gime al escuchar su plan.
-305e94ff|Pide a su avatar que te haga elegir una pose de sumisión y describe por qué te excita.
-a7a98f83|Haz que su avatar te dé una orden en voz baja y repítela con un apodo antes de cumplirla.
-5efdaa2e|Pide a su avatar que te haga confesar un deseo con la voz más baja y repítelo como súplica.
 a7831ca1|Ordena a su avatar que te haga repetir una orden con un jadeo entre cada palabra.
 0270d045|Apuesta que quien pierda la próxima partida narrará un deseo prohibido con su avatar en pose provocativa.
 7aef452d|Apuesta que si pierdes, su avatar elegirá tres palabras que dirás con voz de deseo antes de cada disparo.
@@ -118,3 +78,43 @@ f28a5374|Haz que su avatar confiese una fantasía y repítela tú con voz de des
 c281a35a|Haz que su avatar te cuente un deseo prohibido mientras tú sostienes su mirada virtual.
 4f2bdbc8|Cuenta a su avatar una fantasía de obediencia y pídele que te dé una orden al terminar.
 a7a8a1c3|Elige una fantasía y haz que su avatar la actúe contigo hasta que los jadeos se confundan.
+7f30ea57|Elogia tres detalles de su avatar que te excitan y exige que te devuelva uno con un gemido.
+901728c7|Pide a su avatar que te elogie con voz de mando y agradece cada elogio con un jadeo.
+0da4090c|Haz que su avatar te diga qué es lo que más le excita de tu voz y demuéstralo al instante.
+266f3e82|Pide a su avatar que te describa como su fantasía favorita y corrige cada detalle con más deseo.
+eac9dc7e|Haz que su avatar te elogie por tu forma de obedecer y te ordene demostrarlo sin hablar.
+10755f77|Pide a su avatar que te haga un cumplido obsceno y respóndele con otro más atrevido.
+a15786d3|Haz que su avatar te elija como su obra de arte y describa con voz de deseo cada detalle virtual.
+7f41439d|Pide a su avatar que te cuente lo que le provoca tu avatar y confírmalo con un jadeo largo.
+05eedd5d|Haz que su avatar te haga un elogio prohibido y te obligue a guardarlo hasta que ganes la ronda.
+8aa30698|Pide a su avatar que te elogie en voz baja mientras te ordena no apartar la mirada.
+fe13bce1|Propón que su avatar te entreviste para un puesto de deseo y responde cada pregunta con un gemido.
+5a233b43|Haz que su avatar te dirija en una escena erótica y te haga repetir tu línea hasta que te tiemble la voz.
+027ce144|Propón una escena donde su avatar es tu inspiración y tú describes cada detalle virtual que te provoca.
+c35d19f1|Pide a su avatar que te reciba en una fiesta privada y te haga confesar qué harías a solas.
+81be3f97|Haz que su avatar te entrene con órdenes y te obligue a confesar qué ejercicio te excita más.
+444140e5|Pide a su avatar que escuche tus confesiones y puntúe cada una con un jadeo.
+0ad2a16e|Pide a su avatar que te guíe por un recorrido virtual y te susurre una orden en cada parada.
+769038f8|Haz que su avatar te enseñe un movimiento sugerente y te obligue a repetirlo hasta gemir.
+c5c07d42|Propón que su avatar te juzgue en un juicio privado y te haga declarar tu deseo con voz temblorosa.
+a235b2bb|Haz que su avatar te pida un deseo por cada ronda que ganes y cúmplelo con un gemido antes de la siguiente.
+04a97b54|Haz que su avatar te narre lo que te hace mientras tú obedeces con jadeos cada vez más altos.
+b5b9a3e5|Propón que su avatar te esculpa con poses virtuales y elogie tu entrega después de cada una.
+6494afd9|Pide a su avatar que te anuncie como la atracción de un espectáculo privado y te haga entrar con un gemido.
+24c07315|Haz que su avatar te ponga una tarea de deseo y te obligue a cumplirla gimiendo antes de la ronda.
+31b02e7a|Propón que su avatar te sirva como asistente virtual solo si le das una orden con deseo.
+80cfbc9b|Pide a su avatar que te acompañe en un baile virtual y te susurre un deseo en cada giro.
+98205965|Haz que su avatar te confiese qué haría si el ascensor virtual se detuviera entre los dos.
+89817916|Pide a su avatar que te imponga una penitencia virtual por cada gemido y te haga elegir cuál cumplir.
+ecb327ae|Pide a su avatar que te haga confesar qué te enloquece de su presencia y te premie con un jadeo.
+cc165c59|Haz que su avatar te cuente una fantasía de espejos y te haga describir qué verías ahí.
+e4f2bf64|Pide a su avatar que te confiese una fantasía reciente y te obligue a adivinar qué parte te incluye.
+16d4b3d7|Cuéntale una fantasía donde su avatar te descubre en un pasillo virtual y espera tu permiso.
+0f41bb9f|Haz que su avatar te relate una fantasía de medianoche y te haga prometer que la cumplirán.
+13e2f16f|Pide a su avatar que te describa una escena de deseo en una azotea virtual y añade un detalle más atrevido.
+fdef7232|Cuéntale una fantasía donde su avatar te sigue por una sala vacía y te pide permiso para acorralarte.
+0b0f838c|Haz que su avatar te cuente una fantasía de disfraz y te haga elegir qué papel interpretarías.
+a8e8a312|Pide a su avatar que te relate una fantasía de cámara lenta y te obligue a repetir cada gesto con jadeos.
+5419c970|Cuéntale una fantasía donde su avatar te elogia mientras te da órdenes junto a una ventana virtual.
+b54433da|Pide a su avatar que te dicte una carta de deseo y te obligue a repetirla gimiendo palabra por palabra.
+22312abc|Haz que su avatar te ponga una venda virtual y te guíe solo con la voz hasta que gimas.
