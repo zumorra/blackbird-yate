@@ -1,40 +1,39 @@
-L|Ven conmigo, conozco un rincón donde nadie nos molesta.
-L|No mires atrás, ya te tengo bien agarradito.
-L|Camina despacio, quiero disfrutar cada paso.
-L|Ese rincón está oscuro y me gusta para dos.
-L|No te sueltes, apenas empieza lo bueno.
-L|Sígueme calladito, que no quiero testigos.
-L|Tú y yo tenemos una conversación pendiente.
-L|No pongas esa cara, solo vamos a platicar.
-L|Ven, que ahí nadie va a interrumpirnos.
-L|Te llevo de la mano porque no confío en ti.
-L|Caminito, que llegando te suelto... o no.
-L|Ese rincón tiene tu nombre escrito.
-L|No me hagas jalarte, que se me antoja más.
-L|Tranquilo, solo quiero tenerte cerquita.
-L|Ya casi llegamos, no te me aceleres.
-L|¿Ves ese lugarcito? Es nuestro ahora.
-L|Ven, que quiero verte de cerca sin público.
-L|No te me escapes, que me gusta perseguirte.
-L|Obediente se ve bonito en ti.
-L|Ya llegamos, ahora sí, no hay quien te salve.
-E|Así me gusta, sin prisa y bien cerquita.
-E|No te pongas nervioso, apenas voy a empezar.
-E|Me encanta cuando te quedas sin palabras.
-E|¿Ves qué fácil fue traerte hasta acá?
-E|Ahora nadie nos ve, así que relájate.
-E|Te dije que ibas a caer, y caíste.
-E|No te muevas, quiero memorizar tu cara.
-E|Ese nerviosito tuyo me está encantando.
-E|Si te portas bien, te dejo quedarte un rato.
-E|Me gusta tenerte solito y a mi merced.
-E|No mires la salida, mírame a mí.
-E|¿Tienes idea de lo que provoca tu cara?
-E|Shhh, habla bajito, que esto es entre tú y yo.
-E|Me encanta que seas tan fácil de convencer.
-E|No te asustes, solo quiero jugar contigo.
-E|Aquí mandas tú... mentira, mando yo.
-E|Qué bonito se te ve cuando te sonrojas.
-E|Prometiste no resistirte, ¿o ya se te olvidó?
-E|Te tengo justo donde quería, ¿qué opinas?
-E|Ya no hay vuelta atrás, mi vida, solo juega.
+L|Ven conmigo, conozco un rincón donde nadie nos va a molestar.
+L|Toma mi mano y no te sueltes, que no quiero perderte.
+L|Sígueme, que aquí hay mucha gente y tú me interesas.
+L|No mires atrás, ya te agarré y no te vas a escapar.
+L|Camina, que ese rincón de allá está hecho para dos.
+L|Agarra fuerte, que si te suelto te alcanzo igual.
+L|Por aquí, que quiero hablar contigo sin público.
+L|Tú y yo nos vamos a apartar un ratito, ¿va?
+L|No te me pongas nervioso, solo vamos a platicar.
+L|Ese rincón está libre y tú vienes conmigo.
+L|Deja el grupo, que ya te elegí para esta noche.
+L|Me gusta cómo te ves cuando te agarro de la mano.
+L|Ven, que quiero verte la cara sin tanta luz.
+L|Tú caminas y yo decido a dónde, ¿entendido?
+L|Oríllate conmigo, que aquí hay demasiado ruido.
+L|No te me escondas, que ya te tengo de la mano.
+L|Sígueme despacio, que quiero que dure el camino.
+L|Ese rincón de allá es nuestro, no se lo digas a nadie.
+L|Camina pegadito, que no pienso soltarte.
+E|Así me gusta, sin prisa y sin testigos.
+E|Mírame, que aquí nadie nos va a interrumpir.
+E|¿Ves? No era tan difícil quedarte a solas conmigo.
+E|Te traje hasta acá porque me caes muy bien.
+E|No te pongas rojo, que se te nota todo.
+E|Respira, que todavía no hemos empezado.
+E|Me gusta cuando te quedas callado y me miras.
+E|¿Y ahora quién te rescata, eh?
+E|Aquí mando yo, y a ti parece que te gusta.
+E|No te muevas, que quiero verte bien de cerca.
+E|Te agarré una vez y te voy a agarrar otra.
+E|Qué carita de no saber qué hacer, me encanta.
+E|Bajita la voz, que esto es solo entre tú y yo.
+E|No me mires así, que me voy a creer tus mentiras.
+E|Sabía que ibas a venir conmigo sin pelear.
+E|Tranquilo, que aquí nadie te va a venir a salvar.
+E|Me gusta tenerte acorralado y sin excusas.
+E|Dime que sí con la cabeza, que ya te conozco.
+E|Qué rico se siente tenerte tantito para mí.
+E|Ya estás aquí, así que aguántate y disfruta.
