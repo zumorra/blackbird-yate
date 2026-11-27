@@ -1,39 +1,40 @@
 L|Ven conmigo, conozco un rincón donde nadie nos va a molestar.
-L|Toma mi mano y no te sueltes, que no quiero perderte.
-L|Sígueme, que aquí hay mucha gente y tú me interesas.
-L|No mires atrás, ya te agarré y no te vas a escapar.
-L|Camina, que ese rincón de allá está hecho para dos.
-L|Agarra fuerte, que si te suelto te alcanzo igual.
-L|Por aquí, que quiero hablar contigo sin público.
-L|Tú y yo nos vamos a apartar un ratito, ¿va?
-L|No te me pongas nervioso, solo vamos a platicar.
-L|Ese rincón está libre y tú vienes conmigo.
-L|Deja el grupo, que ya te elegí para esta noche.
-L|Me gusta cómo te ves cuando te agarro de la mano.
-L|Ven, que quiero verte la cara sin tanta luz.
-L|Tú caminas y yo decido a dónde, ¿entendido?
-L|Oríllate conmigo, que aquí hay demasiado ruido.
-L|No te me escondas, que ya te tengo de la mano.
-L|Sígueme despacio, que quiero que dure el camino.
-L|Ese rincón de allá es nuestro, no se lo digas a nadie.
-L|Camina pegadito, que no pienso soltarte.
+L|Toma mi mano y no me sueltes, quiero tenerte cerca.
+L|Sígueme, que ese rincón es solo para nosotros dos.
+L|No mires atrás, ya te tengo justo donde quería.
+L|Acompáñame, que aquí hay demasiada gente para mi gusto.
+L|Ven, que quiero enseñarte un lugar que muy pocos conocen.
+L|Dame la mano, que no pienso dejarte escapar tan fácil.
+L|Por aquí, mi amor, que allá atrás hay demasiada luz.
+L|No te me acobardes, solo es un rincón y yo.
+L|Camina conmigo, que ya me cansé de compartirte.
+L|Sígueme despacito, que quiero disfrutar el camino.
+L|Te llevo de la mano porque así no te me escapas.
+L|Ven, que ese rincón guarda un secreto y es mío.
+L|Dame esa mano, que contigo me sobra el mundo.
+L|Por acá, que allá hay ruido y yo prefiero tus susurros.
+L|No preguntes, solo ven y confía en mí un ratito.
+L|Tómame de la mano y déjame guiarte, te va a gustar.
+L|Sígueme, que encontré el escondite perfecto para ti.
+L|Ven conmigo, que este rincón no tiene testigos.
+L|Acompáñame, que quiero tenerte lejos de las miradas.
 E|Así me gusta, sin prisa y sin testigos.
-E|Mírame, que aquí nadie nos va a interrumpir.
-E|¿Ves? No era tan difícil quedarte a solas conmigo.
-E|Te traje hasta acá porque me caes muy bien.
-E|No te pongas rojo, que se te nota todo.
-E|Respira, que todavía no hemos empezado.
-E|Me gusta cuando te quedas callado y me miras.
-E|¿Y ahora quién te rescata, eh?
-E|Aquí mando yo, y a ti parece que te gusta.
-E|No te muevas, que quiero verte bien de cerca.
-E|Te agarré una vez y te voy a agarrar otra.
-E|Qué carita de no saber qué hacer, me encanta.
-E|Bajita la voz, que esto es solo entre tú y yo.
-E|No me mires así, que me voy a creer tus mentiras.
-E|Sabía que ibas a venir conmigo sin pelear.
-E|Tranquilo, que aquí nadie te va a venir a salvar.
-E|Me gusta tenerte acorralado y sin excusas.
-E|Dime que sí con la cabeza, que ya te conozco.
-E|Qué rico se siente tenerte tantito para mí.
-E|Ya estás aquí, así que aguántate y disfruta.
+E|Ya estás aquí, ahora nadie nos va a interrumpir.
+E|Acércate más, que casi no te escucho respirar.
+E|Me gusta cómo te pones cuando te hablo bajito.
+E|No tengas miedo, que yo solo juego a ganar.
+E|Te tengo justo donde quería, ¿y ahora qué?
+E|Quédate quietecito, que quiero mirarte bien.
+E|Veo que te puse nervioso, y eso me encanta.
+E|Aquí nadie nos oye, así que dime la verdad.
+E|Me encanta cuando te sonrojas por mi culpa.
+E|No te me escapes, que apenas vamos empezando.
+E|Respira, que todavía no te he dicho lo mejor.
+E|Te prometo que este rincón es mi favorito.
+E|Quédate así, cerquita, que no pienso soltarte.
+E|Sabes que aquí mando yo, ¿verdad?
+E|Me gusta verte así, sin saber qué esperar.
+E|No digas nada, solo deja que te mire.
+E|Tienes cara de no aguantar la tentación.
+E|Este secreto se queda entre tú y yo.
+E|Quédate a mi lado, que aquí empieza lo bueno.
