@@ -1,39 +1,40 @@
-L|Toma mi mano y no hagas preguntas.
-L|Ese rincón está oscuro y me gusta.
-L|Ven, que allá nadie nos va a interrumpir.
-L|No mires atrás, ya estás conmigo.
-L|Ese rincón tiene tu nombre.
-L|Te llevo, pero no te sueltes.
-L|Quietecito, que ya casi llegamos.
-L|Allá te voy a explicar con calma.
-L|Sígueme y no me hagas esperar.
-L|Ese rincón es mi lugar favorito.
-L|Ven, que quiero verte de cerca.
-L|No te me escapes, ya te atrapé.
-L|Camina bonito, que te estoy mirando.
-L|Allá atrás hay algo que quiero mostrarte.
-L|Tu mano tiembla, ¡qué lindo!
-L|Ese rincón guarda secretos.
-L|Ven, que la música no nos deja hablar.
-L|Te llevo al fondo, pero tranquilo.
-L|No me sueltes, no quiero perderte.
-E|Así me gusta, sin prisa.
-E|Mírame, no al piso.
-E|Sabía que ibas a caer.
-E|No te pongas nervioso, me gusta.
-E|Aquí nadie nos escucha.
-E|Te atrapé, ¿ahora qué vas a hacer?
-E|Respira, que apenas empiezo.
-E|Me gusta cuando te pones rojo.
-E|No te muevas, así estás bien.
-E|Eres mío por un ratito.
-E|Dime que sí con la mirada.
-E|No te voy a soltar tan fácil.
-E|Te ves mejor de cerca.
-E|¡Qué calladito te pones!
-E|No te asustes, solo quiero jugar.
-E|Me encanta tenerte aquí.
-E|Si te portas bien, te dejo ir.
-E|Te tengo justo donde quería.
-E|No mires a nadie más.
-E|Esto se queda entre tú y yo.
+L|Ven conmigo, conozco un rincón donde nadie nos ve.
+L|No sueltes mi mano, que no me gusta repetir.
+L|Camina derecho y no mires a nadie más.
+L|Tú y yo tenemos algo pendiente, ¿verdad?
+L|Ese rincón es perfecto para hablar sin testigos.
+L|No pongas esa cara, apenas vamos empezando.
+L|Me gusta cuando te pones nervioso, es muy tierno.
+L|Sígueme y no hagas preguntas, ¿vale?
+L|Aquí hay demasiada gente, busquemos privacidad.
+L|Te tomé de la mano, no te me vayas a escapar.
+L|No mires atrás, yo soy lo único que importa.
+L|Ya casi llegamos, aguanta un poquito más.
+L|Ese rincón está libre, ¡qué conveniente!, ¿no?
+L|Quietecito, que hoy vas a hacer lo que yo diga.
+L|Me encanta que seas tan fácil de convencer.
+L|No te rías, que lo digo en serio.
+L|Vamos, que la noche es joven y tú también.
+L|Si te portas bien, te dejo quedarte conmigo.
+L|No me sueltes, que me enojo y no es bonito.
+L|Tranquilo, solo quiero tenerte cerquita un rato.
+E|Así me gusta, sin prisa y sin público.
+E|No te pongas rojo, se te ve más lindo.
+E|Aquí nadie nos escucha, así que dime.
+E|Me gusta cómo me miras cuando estás nervioso.
+E|No muerdo, aunque a veces dan ganas.
+E|Tranquilo, solo quiero jugar un rato contigo.
+E|Te ves tan serio, ¿qué estás pensando?
+E|No te alejes, que apenas te estoy agarrando confianza.
+E|Sabía que ibas a caer, eres predecible.
+E|Me encanta tenerte así, cerquita y sin excusas.
+E|No me mires así, me vas a hacer perder la cabeza.
+E|Si sigues temblando, voy a pensar que te gusto.
+E|Relájate, que yo llevo el control aquí.
+E|Me gusta cuando obedeces sin hacer berrinche.
+E|No digas nada, solo quédate un rato más.
+E|Te tengo justo donde quería, ¿qué tal se siente?
+E|No te me acerques tanto, me gusta la tensión.
+E|Prométeme que no le vas a contar a nadie.
+E|Me gustas así, calladito y atento.
+E|Ya estás aquí, ahora no hay marcha atrás.
